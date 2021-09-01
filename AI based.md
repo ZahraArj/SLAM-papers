@@ -6,7 +6,7 @@ Jungwon
 -->
 
 
-### UWB UOT
+### UWB UoT
 
 - [2020: Learning-based Bias Correction for Ultra-wideband Localizationof Resource-constrained Mobile Robots ](https://arxiv.org/abs/2003.09371)  
 ![2020](https://user-images.githubusercontent.com/46463022/131751671-faa3a935-83a7-49ce-b38e-5eedd06da3ba.png)  
@@ -21,7 +21,8 @@ Jungwon
 
 
 ### Comparision between different methods
-- [What s in My LiDAR Odometry Toolbox?](https://arxiv.org/abs/2103.09708)
+- [What s in My LiDAR Odometry Toolbox?](https://arxiv.org/abs/2103.09708)  
+![comparision](https://user-images.githubusercontent.com/46463022/131752670-51148481-b147-42be-8f3c-5984f033c786.png)
 
 <br/>
 <br/>
