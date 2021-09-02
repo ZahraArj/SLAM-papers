@@ -8,7 +8,7 @@ Zahra
 -->
 ### ICRA 2021
 1. **[Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator](https://arxiv.org/pdf/2102.11261.pdf)**
-    - ICRA 2021 Best Student Paper Award.
+    - [ICRA 2021 Best Student Paper Award.](https://www.youtube.com/watch?v=RU5ZMXdDewQ)
     - [Tim Barfoot - Autonomous Space Robotics Lab](http://asrl.utias.utoronto.ca/~tdb/)  
     - **Unsupervised Learning of Lidar Features**  
     <p float="left">
