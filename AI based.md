@@ -14,7 +14,15 @@ Zahra
     3. [V-LOAM 2015: Visual-lidar Odometry and Mapping: Low-drift, Robust, and Fast](https://frc.ri.cmu.edu/~zhangji/publications/ICRA_2015.pdf) 
     4. [LeGO-LOAM 2018: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594299)  
        - Simplified LOAM (for ground vehicle) + Loop Closing
+2. ***LIO***(lidar- IMU odometry)
+    1. [LIO 2019: Tightly Coupled 3D Lidar Inertial Odometry and Mapping](https://arxiv.org/pdf/1904.06993.pdf)
+    2. [LIO-SAM 2020: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2007.00258.pdf)
+        - LeGO-LOAM + IMU + GPS
+    3. [LVI-SAM 2021: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2104.10831.pdf)
+        - LIO-SAM + Vision​
 
+<br/>
+<br/>
 ### ICRA 2021
 1. **[Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator](https://arxiv.org/pdf/2102.11261.pdf)**
     - [ICRA 2021 Best Student Paper Award.](https://www.youtube.com/watch?v=RU5ZMXdDewQ)
