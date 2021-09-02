@@ -6,6 +6,14 @@
 Started to write on Sep 1 2021
 Zahra
 -->
+
+### BASICS
+1- ***LOAMS***
+    1. **[LOAM 2014: Lidar Odometry and Mapping in Real-time](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf)**
+    2. **[LOAM 2016: Low-drift and real-time lidar odometry and mapping](https://link.springer.com/content/pdf/10.1007/s10514-016-9548-2.pdf)** 
+    3. **[V-LOAM 2015: Visual-lidar Odometry and Mapping: Low-drift, Robust, and Fast](https://frc.ri.cmu.edu/~zhangji/publications/ICRA_2015.pdf)**
+    4. **[LeGO-LOAM 2018: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594299)
+
 ### ICRA 2021
 1. **[Unsupervised Learning of Lidar Features for Use in a Probabilistic Trajectory Estimator](https://arxiv.org/pdf/2102.11261.pdf)**
     - [ICRA 2021 Best Student Paper Award.](https://www.youtube.com/watch?v=RU5ZMXdDewQ)
@@ -29,7 +37,8 @@ Zahra
     <br/>
 4. **[Interval-Based Visual-LiDAR Sensor Fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9349119)**  
 5. **[Dynamic  Object  Aware  LiDAR  SLAM  based  on  Automatic  Generationof  Training  Data](https://arxiv.org/pdf/2104.03657.pdf)**
-6. **[Self-Supervised Learning of Lidar Segmentation for Autonomous Indoor Navigation]**(https://arxiv.org/pdf/2012.05897.pdf)
+6. **[Self-Supervised Learning of Lidar Segmentation for Autonomous Indoor Navigation](https://arxiv.org/pdf/2012.05897.pdf)**
+7. 
     
 ### UWB UoT
 
