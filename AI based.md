@@ -17,7 +17,7 @@ Zahra
     </p>
 2. **[Radar Odometry Combining Probabilistic Estimation and Unsupervised Feature Learning](https://arxiv.org/pdf/2105.14152.pdf)**
     - Same lab  
-      <img src="https://user-images.githubusercontent.com/46463022/131921132-d3be8026-e3f9-4b40-b91a-2eb369eeb808.png" width="100" height="100">
+      <img src="https://user-images.githubusercontent.com/46463022/131921132-d3be8026-e3f9-4b40-b91a-2eb369eeb808.png" width="300">
 
     
 
