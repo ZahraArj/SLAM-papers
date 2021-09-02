@@ -16,7 +16,8 @@ Zahra
       <img src="https://user-images.githubusercontent.com/46463022/131920410-d063251f-64e3-4340-97ab-08562b5d987e.png" height="200">
     </p>
 2. **[Radar Odometry Combining Probabilistic Estimation and Unsupervised Feature Learning](https://arxiv.org/pdf/2105.14152.pdf)**
-    - Same lab  
+    - Same lab
+    - Not ICRA, **arxiv** 
       <img src="https://user-images.githubusercontent.com/46463022/131921132-d3be8026-e3f9-4b40-b91a-2eb369eeb808.png" width="700">
 
     
