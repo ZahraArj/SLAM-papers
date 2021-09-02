@@ -11,9 +11,11 @@ Zahra
     - ICRA 2021 Best Student Paper Award.
     - [Tim Barfoot - Autonomous Space Robotics Lab](http://asrl.utias.utoronto.ca/~tdb/)  
     - **Unsupervised Learning of Lidar Features**  
-    Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 
 
     <img src="https://user-images.githubusercontent.com/46463022/131919839-99f72eeb-a77f-4138-8b57-2af758603d30.png" height="150">
