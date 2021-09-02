@@ -21,17 +21,13 @@ Zahra
     - Not ICRA, **arxiv**   
       <img src="https://user-images.githubusercontent.com/46463022/131921132-d3be8026-e3f9-4b40-b91a-2eb369eeb808.png" width="700">
       <br/>
+      
 3. **[Self-supervised Learning of LiDAR Odometry for Robotic Applications](https://arxiv.org/pdf/2011.05418.pdf)**  
     - Robotic Systems Lab, **ETH Zurich**  
     <img src="https://user-images.githubusercontent.com/46463022/131921721-4e8bedf3-b61f-43c3-a330-5e667cd5361f.png" width="700">
     <br/>
-
-
     
-
-
-
-
+    
 ### UWB UoT
 
 - [2020: Learning-based Bias Correction for Ultra-wideband Localizationof Resource-constrained Mobile Robots ](https://arxiv.org/abs/2003.09371)  
