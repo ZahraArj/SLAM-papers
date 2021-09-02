@@ -19,7 +19,8 @@ Zahra
     2. [LIO-SAM 2020: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2007.00258.pdf)
         - LeGO-LOAM + IMU + GPS
     3. [LVI-SAM 2021: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2104.10831.pdf)
-        - LIO-SAM + Vision​
+        - LIO-SAM + Vision
+    4. [Deeplio: Deep LIDAR Inertial Sensor Fusion for Odometry Estimation ](https://www.researchgate.net/publication/352498082_DEEPLIO_DEEP_LIDAR_INERTIAL_SENSOR_FUSION_FOR_ODOMETRY_ESTIMATION)
 
 <br/>
 <br/>
