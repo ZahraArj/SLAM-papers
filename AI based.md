@@ -24,9 +24,12 @@ Zahra
       
 3. **[Self-supervised Learning of LiDAR Odometry for Robotic Applications](https://arxiv.org/pdf/2011.05418.pdf)**  
     - Robotic Systems Lab, **ETH Zurich**  
+    - Geometric Loss  
     <img src="https://user-images.githubusercontent.com/46463022/131921721-4e8bedf3-b61f-43c3-a330-5e667cd5361f.png" width="700">
     <br/>
-    
+4. **[Interval-Based Visual-LiDAR Sensor Fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9349119)**  
+5. **[Dynamic  Object  Aware  LiDAR  SLAM  based  on  Automatic  Generationof  Training  Data](https://arxiv.org/pdf/2104.03657.pdf)**
+6. **[Self-Supervised Learning of Lidar Segmentation for Autonomous Indoor Navigation]**(https://arxiv.org/pdf/2012.05897.pdf)
     
 ### UWB UoT
 
