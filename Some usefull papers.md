@@ -12,6 +12,10 @@ Zahra
 ### Uncertainity
 2. [Associating Uncertainty With Three-DimensionalPoses for Use in Estimation Problems](http://ncfrn.mcgill.ca/members/pubs/barfoot_tro14.pdf)
     - 2018: Barefoot
+### EM algorithm
+3. [The EM Algorithm](http://www.columbia.edu/~mh2078/MachineLearningORFE/EM_Algorithm.pdf)
+    - The EM algorithm is used for obtaining maximum likelihood estimates of parameters when some of the data ismissing.
+4. 
 
 
 <img src="" width="700">
