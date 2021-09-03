@@ -8,7 +8,7 @@ Zahra
 -->
 
 ### 1. Trajectory Evaluation
-    - [A  Tutorial  on  Quantitative  Trajectory  Evaluationfor  Visual(-Inertial)  Odometry](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593941)
+    ## [A  Tutorial  on  Quantitative  Trajectory  Evaluationfor  Visual(-Inertial)  Odometry](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593941)
 ### 2. Uncertainity
     - [Associating Uncertainty With Three-DimensionalPoses for Use in Estimation Problems](http://ncfrn.mcgill.ca/members/pubs/barfoot_tro14.pdf)
       - 2018: Barefoot
