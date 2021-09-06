@@ -7,6 +7,9 @@ Started to write on Sep 3 2021
 Zahra
 -->
 ### Pose Graph 
+| Bayes network for a hidden Markov model (HMM) | Factor Graph  |
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/46463022/132264275-4cfb5428-e22f-4dc8-b573-a31175bbf48b.png) | ![](https://user-images.githubusercontent.com/46463022/132265018-518ee26d-77eb-4242-a4d1-a9c3ac6473b6.png)
  - Bayes network for a hidden Markov model (HMM)  
    <img src="https://user-images.githubusercontent.com/46463022/132264275-4cfb5428-e22f-4dc8-b573-a31175bbf48b.png"  width= "300">
  
