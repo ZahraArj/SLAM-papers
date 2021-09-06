@@ -9,9 +9,8 @@ Zahra
 ### Pose Graph 
 | Markov Chain | Factor Graph  |
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/46463022/132265964-c0fb3e49-e1f6-407b-884c-51ad060520a9.png) | ![](https://user-images.githubusercontent.com/46463022/132265982-a8351aba-118e-4a9f-bbc6-bc0c9d92924d.png)
-:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/46463022/132266002-c2df2813-07e8-434b-aa14-ac17885b973e.png)|![](https://user-images.githubusercontent.com/46463022/132266011-e1b4e8a0-9bb6-44b5-9019-ef8e04eaceab.png)
+|![](https://user-images.githubusercontent.com/46463022/132265964-c0fb3e49-e1f6-407b-884c-51ad060520a9.png) | ![](https://user-images.githubusercontent.com/46463022/132265982-a8351aba-118e-4a9f-bbc6-bc0c9d92924d.png)|
+|![](https://user-images.githubusercontent.com/46463022/132266002-c2df2813-07e8-434b-aa14-ac17885b973e.png)|![](https://user-images.githubusercontent.com/46463022/132266011-e1b4e8a0-9bb6-44b5-9019-ef8e04eaceab.png)|
 
 
 
