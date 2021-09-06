@@ -16,7 +16,7 @@ Zahra
    - The maximum a posteriori (MAP) estimate is given by x= argmax p(x|z).  
    - x: is all the states (that we want to get)  
    - z: all the sensor measurmnets  
-   <img src="https://user-images.githubusercontent.com/46463022/132265095-32d04d65-bcb6-45ef-a10b-e19902df3e49.png"  width= "300">  
+   <img src="https://user-images.githubusercontent.com/46463022/132265095-32d04d65-bcb6-45ef-a10b-e19902df3e49.png">  
 
 
  
