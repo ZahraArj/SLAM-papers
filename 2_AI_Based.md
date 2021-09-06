@@ -51,7 +51,7 @@ Zahra
 6. **[Self-Supervised Learning of Lidar Segmentation for Autonomous Indoor Navigation](https://arxiv.org/pdf/2012.05897.pdf)**
 7. 
     
-### UWB UoT
+### UWB UoT, Prof. Angela Schoellig, [Dynamic Systems Lab](https://www.dynsyslab.org/vision-news/)
 
 - [2020: Learning-based Bias Correction for Ultra-wideband Localizationof Resource-constrained Mobile Robots ](https://arxiv.org/abs/2003.09371)  
 ![2020](https://user-images.githubusercontent.com/46463022/131751671-faa3a935-83a7-49ce-b38e-5eedd06da3ba.png)  
