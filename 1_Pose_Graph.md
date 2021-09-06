@@ -13,9 +13,9 @@ Zahra
  - Factor Graph  
    <img src="https://user-images.githubusercontent.com/46463022/132265018-518ee26d-77eb-4242-a4d1-a9c3ac6473b6.png"  width= "300">
  <br/>
-  - The maximum a posteriori (MAP) estimate is given by x= argmax p(x|z).  
-  - x: is all the states (that we want to get)  
-  - z: all the sensor measurmnets  
+   - The maximum a posteriori (MAP) estimate is given by x= argmax p(x|z).  
+   - x: is all the states (that we want to get)  
+   - z: all the sensor measurmnets  
 
 
  
