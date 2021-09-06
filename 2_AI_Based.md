@@ -49,7 +49,9 @@ Zahra
 4. **[Interval-Based Visual-LiDAR Sensor Fusion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9349119)**  
 5. **[Dynamic  Object  Aware  LiDAR  SLAM  based  on  Automatic  Generationof  Training  Data](https://arxiv.org/pdf/2104.03657.pdf)**
 6. **[Self-Supervised Learning of Lidar Segmentation for Autonomous Indoor Navigation](https://arxiv.org/pdf/2012.05897.pdf)**
-7. 
+
+<br/>
+<br/>
     
 ### UWB UoT, Prof. Angela Schoellig, [Dynamic Systems Lab](https://www.dynsyslab.org/vision-news/)
 
@@ -57,9 +59,6 @@ Zahra
 ![2020](https://user-images.githubusercontent.com/46463022/131751671-faa3a935-83a7-49ce-b38e-5eedd06da3ba.png)  
 - [2021: Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots ](https://arxiv.org/abs/2103.01885)  
 ![2021](https://user-images.githubusercontent.com/46463022/131751263-a1e44428-31bc-495f-8f5f-13f93756a9cd.png)
-
-
-
 
 <br/>
 <br/>
