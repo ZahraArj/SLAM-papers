@@ -8,8 +8,10 @@ Zahra
 -->
 ### Pose Graph 
  - Bayes network for a hidden Markov model (HMM)
- <img src="https://user-images.githubusercontent.com/46463022/132264275-4cfb5428-e22f-4dc8-b573-a31175bbf48b.png"  width= "300">
+ 
  - Factor Graph  
+
+<img src="https://user-images.githubusercontent.com/46463022/132264275-4cfb5428-e22f-4dc8-b573-a31175bbf48b.png"  width= "300">
 The maximum a posteriori (MAP) estimate is given by x= argmax p(x|z).  
 x: is all the states (that we want to get)  
 z: all the sensor measurmnets  
