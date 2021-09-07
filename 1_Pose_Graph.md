@@ -44,6 +44,8 @@ source: [hal](http://people.binf.ku.dk/~thamelry/MLSB08/hal.pdf)
 Let Y be N(μ,σ2), the normal distrubution with parameters μ and σ2.
  - The density function of Y is   
  ![Screenshot from 2021-09-07 12-52-24](https://user-images.githubusercontent.com/46463022/132383632-bd81dfdb-9918-4075-947a-504ed85c60bc.png)  
+ - Probability for a distribution is associated with the area under the curve for a particular range of values  
+   ![gmz9453x54414z3108007](https://user-images.githubusercontent.com/46463022/132385692-9a02b388-dc49-4eab-b2bb-0331ea590881.gif)
  - The n-th central moment of Y is  
  ![Screenshot from 2021-09-07 13-04-52](https://user-images.githubusercontent.com/46463022/132383800-a9fc8c62-2b57-424c-9750-17177699d925.png)
 
