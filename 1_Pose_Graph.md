@@ -37,5 +37,11 @@ Zahra
     <img src="https://user-images.githubusercontent.com/46463022/132265095-32d04d65-bcb6-45ef-a10b-e19902df3e49.png">  
    </p>
    
+## Probability vs. Likelihood
+ - Probability is the percentage that a success occur. 
+ - Likelihood is the conditional probability
+
+
 ## What is marginalisation
 Marginalisation is a method that requires summing over the possible values of one variable to determine the marginal contribution of another. 
+
