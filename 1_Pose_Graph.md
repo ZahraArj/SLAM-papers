@@ -40,6 +40,8 @@ source: [hal](http://people.binf.ku.dk/~thamelry/MLSB08/hal.pdf)
     <img src="https://user-images.githubusercontent.com/46463022/132265095-32d04d65-bcb6-45ef-a10b-e19902df3e49.png">  
    </p>
    
+   ***Σ can come from VAE***
+   
 ## [iSAM2](https://www.cs.cmu.edu/~kaess/pub/Kaess12ijrr.pdf)
 
   | Name | Equation  |
