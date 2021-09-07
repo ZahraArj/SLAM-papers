@@ -24,6 +24,8 @@ Zahra
   ### Gaussian Trick
   - Gaussian tricks: Decoder will sample z from q(z|x), The problem here is that backprop will not be able to flow throgh this random node:  
       <img src="https://user-images.githubusercontent.com/46463022/132406135-3eb944bf-4994-4dbb-a982-728225043508.png" width="400">
+      ![](https://user-images.githubusercontent.com/46463022/132412226-b2443581-5023-421f-a2e4-e6172386447e.png)
+
 
 
 
