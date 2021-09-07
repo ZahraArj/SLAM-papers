@@ -20,7 +20,9 @@ Zahra
 
  4. [2021: LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2104.10831.pdf)
       - Lidar/IMU/GPS/Vision
- <img src="https://user-images.githubusercontent.com/46463022/132414003-f0e772fc-64dc-4bed-b40b-0c5138a0b221.png">
+ <img src="https://user-images.githubusercontent.com/46463022/132414003-f0e772fc-64dc-4bed-b40b-0c5138a0b221.png">  
+ <img src="https://user-images.githubusercontent.com/46463022/132414114-8ee29f7d-b069-4a3c-844e-dbd74fd836c6.png">
+
       <br/>
 
  
