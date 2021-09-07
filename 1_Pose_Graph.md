@@ -42,12 +42,14 @@ source: [hal](http://people.binf.ku.dk/~thamelry/MLSB08/hal.pdf)
    
 ## Probability
 Let Y be N(μ,σ2), the normal distrubution with parameters μ and σ2.
- - Let Y be N(μ,σ2), the normal distrubution with parameters μ and σ2  
+ - The density function of Y is   
  ![Screenshot from 2021-09-07 12-52-24](https://user-images.githubusercontent.com/46463022/132383632-bd81dfdb-9918-4075-947a-504ed85c60bc.png)  
  - The n-th central moment of Y is  
  ![Screenshot from 2021-09-07 13-04-52](https://user-images.githubusercontent.com/46463022/132383800-a9fc8c62-2b57-424c-9750-17177699d925.png)
 
  - If the function is a probability distribution, then the first moment is the expected value, the second central moment is the variance, the third standardized moment is the skewness
+  ![Screenshot from 2021-09-07 13-06-44](https://user-images.githubusercontent.com/46463022/132384013-eab42b2a-ff56-4ced-bc66-3b31d9b410ea.png)
+
    
 ## Probability vs. Likelihood
  - Probability is the percentage that a success occur. 
