@@ -51,9 +51,9 @@ source: [hal](http://people.binf.ku.dk/~thamelry/MLSB08/hal.pdf)
   | A factor graph G defines the factorization of a function f (Θ) as:|![](https://user-images.githubusercontent.com/46463022/132388924-83c321eb-708c-433e-bb60-4a89022daaf7.png)|
   |  (where Θi is the set of variables θ j adjacent to the factor fi, and independence relationships are encoded by the edges eij)|
   | Goal is to find the variable assignment Θ∗ that maximizes f: |![](https://user-images.githubusercontent.com/46463022/132391432-dd54acbf-b4cc-45df-83f1-ee181fdd2df1.png)|
-  | Assuming Gaussian measurement models: | ![](https://user-images.githubusercontent.com/46463022/132391721-1cd8a93b-7606-4056-a494-5b9cb54c3264.png)|
+  | Assuming Gaussian measurement models: (h: measurment fun., z: measurmnet) | ![](https://user-images.githubusercontent.com/46463022/132391721-1cd8a93b-7606-4056-a494-5b9cb54c3264.png)|
   | Corresponds to the nonlinear least-squares criterion| ![](https://user-images.githubusercontent.com/46463022/132391848-495f42cf-381b-4e93-b679-00d9827abaac.png)|
-  |Squared Mahalanobis distance with covariance matrix Σ, (h: measurment fun., z: measurmnet)  |![](https://user-images.githubusercontent.com/46463022/132391942-4f06e4c6-1327-4f02-b171-54ebd5f264a0.png)|
+  |Squared Mahalanobis distance with covariance matrix Σ |![](https://user-images.githubusercontent.com/46463022/132391942-4f06e4c6-1327-4f02-b171-54ebd5f264a0.png)|
   |The Mahalanobis distance is a measure of the distance between a point P and a distribution D. It is a multi-dimensional generalization of the idea of measuring how many standard deviations away P is from the mean of D|
   | In practice one typically considers a linearized version of problem (min)|
   
