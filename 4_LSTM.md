@@ -22,6 +22,8 @@ Zahra
       |Input gate layer|<img src="https://user-images.githubusercontent.com/46463022/132417587-b1cf48ff-c00e-42e8-a07a-1e1dfdac6aaf.png" width="400">|forget layer for input/ Tanh: [-1,1] which information is important|
       |Calculate the cell state|<img src="https://user-images.githubusercontent.com/46463022/132417829-f353abb3-c06b-468c-ab9e-d990dfc0cee7.png" width="400">| dropping values/ input gate|
       |Output gate layer|<img src="https://user-images.githubusercontent.com/46463022/132417857-51e555db-79ff-4154-bbc6-8689078d170c.png" width="400">|
+      
+## [Transformers](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 
 
