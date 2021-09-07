@@ -10,7 +10,7 @@ Zahra
  
  <img width="700" alt="vae-gaussian" src="https://user-images.githubusercontent.com/46463022/132400632-0cb86cc9-1dc6-4753-a6e0-8c42844be46c.png"> 
  
- - Autoencoder Loss Function:
+ - Autoencoder Loss Function:  
    ![a](https://user-images.githubusercontent.com/46463022/132401375-57ac1f2a-8b5e-4269-b873-225bf2827aab.png)
  - VAE Loss Function (Reconstruction loss + KL divergence)
    ![a](https://user-images.githubusercontent.com/46463022/132401511-d341c92c-2378-45e6-8fda-d330f4e7279f.png) 
