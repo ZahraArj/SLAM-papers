@@ -4,7 +4,7 @@
 Started to write on Sep 2 2021
 Zahra
 -->
-
+ 
 ## 1. Trajectory Evaluation  
    * [A  Tutorial  on  Quantitative  Trajectory  Evaluationfor  Visual-Inertial  Odometry](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593941)
 ## 2. Uncertainity
