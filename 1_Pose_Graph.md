@@ -40,6 +40,19 @@ source: [hal](http://people.binf.ku.dk/~thamelry/MLSB08/hal.pdf)
     <img src="https://user-images.githubusercontent.com/46463022/132265095-32d04d65-bcb6-45ef-a10b-e19902df3e49.png">  
    </p>
    
+## [iSAM2](https://www.cs.cmu.edu/~kaess/pub/Kaess12ijrr.pdf)
+
+  | Name | Equation  |
+  :-------------------------:|:-------------------------:
+  | A factor graph is a bipartite graph | ![](https://user-images.githubusercontent.com/46463022/132388495-9652dd14-8ddd-4f5d-84f3-04c022727655.png)|
+  | Factor nodes | ![](https://user-images.githubusercontent.com/46463022/132388603-4e803658-27de-42cb-be14-e46351b18458.png)|
+  | Variable nodes | ![](https://user-images.githubusercontent.com/46463022/132388686-83b7b068-f1b2-4cc7-9578-9bcb8cdebd33.png)|
+  | Edges | ![](https://user-images.githubusercontent.com/46463022/132388775-b6c8230a-4353-4319-837b-a5d980d50a7d.png)|
+
+
+
+
+   
 ## Probability
 Let Y be N(μ,σ2), the normal distrubution with parameters μ and σ2.
  - The density function of Y is   
