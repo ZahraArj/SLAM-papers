@@ -7,6 +7,6 @@ Zahra
 - paper: [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 - Seq2Seq architecture
  
- 
+  
  <img width="700" alt="vae-gaussian" src="https://user-images.githubusercontent.com/46463022/132400632-0cb86cc9-1dc6-4753-a6e0-8c42844be46c.png">
   
