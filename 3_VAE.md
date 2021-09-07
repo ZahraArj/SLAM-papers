@@ -8,7 +8,8 @@ Zahra
   - The basic idea behind the VAE proposed by Kingma et al in 2013 is that instead of mapping an input to a fixed vector, the input is mapped to a distribution.
   - The only fundamental difference between an autoencoder and a variational autoencoder is that the bottleneck of the VAE is continuous and replaced by two separate vectors.
  
- <img width="700" alt="vae-gaussian" src="https://user-images.githubusercontent.com/46463022/132400632-0cb86cc9-1dc6-4753-a6e0-8c42844be46c.png"> 
+ <img width="700" alt="vae-gaussian" src="https://user-images.githubusercontent.com/46463022/132400632-0cb86cc9-1dc6-4753-a6e0-8c42844be46c.png">
+ 
  
  - Autoencoder Loss Function:  
    ![a](https://user-images.githubusercontent.com/46463022/132401375-57ac1f2a-8b5e-4269-b873-225bf2827aab.png)
@@ -22,7 +23,7 @@ Zahra
      - KL Divergence (D_KL): Kulback-Leibler Divergence (D_KL for short)  
       ![](https://user-images.githubusercontent.com/46463022/132405542-7540d1eb-3708-4aad-861a-1fb4d0f7884a.png)
    3. Gaussian tricks: Decoder will sample z from q(z|x), The problem here is that backprop will not be able to flow throgh this random node:
-      <img src="https://user-images.githubusercontent.com/46463022/132406135-3eb944bf-4994-4dbb-a982-728225043508.png", width="200">
+      <img src="https://user-images.githubusercontent.com/46463022/132406135-3eb944bf-4994-4dbb-a982-728225043508.png" width="200">
 
 
 
