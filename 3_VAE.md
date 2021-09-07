@@ -12,6 +12,6 @@ Zahra
  - Autoencoder Loss Function:
    ![](https://user-images.githubusercontent.com/46463022/132401375-57ac1f2a-8b5e-4269-b873-225bf2827aab.png)
  - VAE Loss Function (Reconstruction loss + KL divergence)
-   ![](https://user-images.githubusercontent.com/46463022/132401511-d341c92c-2378-45e6-8fda-d330f4e7279f.png)
+   ![](https://user-images.githubusercontent.com/46463022/132401511-d341c92c-2378-45e6-8fda-d330f4e7279f.png) 
 
 
