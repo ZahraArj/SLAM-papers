@@ -20,7 +20,8 @@ Zahra
 
    2. The regularizer which is essentially a KL divergence between the encoder’s distribution and the latent space.
      - KL Divergence (D_KL): Kulback-Leibler Divergence (D_KL for short)
-      <img width="1183" alt="vae-gaussian" src="https://user-images.githubusercontent.com/46463022/132405492-3eda3e05-1088-48c0-afb6-869bafb33148.png">
+      ![](https://user-images.githubusercontent.com/46463022/132405542-7540d1eb-3708-4aad-861a-1fb4d0f7884a.png)
+
 
 
 
