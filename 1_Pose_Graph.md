@@ -39,7 +39,7 @@ Zahra
    
 ## Probability vs. Likelihood
  - Probability is the percentage that a success occur. 
- - Likelihood is the conditional probability
+ - Likelihood is the probability (conditional probability) of an event (a set of success) occur by knowing the probability of a success occur.
 
 
 ## What is marginalisation
