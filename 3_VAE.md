@@ -22,8 +22,8 @@ Zahra
    2. The regularizer which is essentially a KL divergence between the encoder’s distribution and the latent space.
      - KL Divergence (D_KL): Kulback-Leibler Divergence (D_KL for short)  
       ![](https://user-images.githubusercontent.com/46463022/132405542-7540d1eb-3708-4aad-861a-1fb4d0f7884a.png)
-   3. Gaussian tricks: Decoder will sample z from q(z|x), The problem here is that backprop will not be able to flow throgh this random node:
-      <img src="https://user-images.githubusercontent.com/46463022/132406135-3eb944bf-4994-4dbb-a982-728225043508.png" width="200">
+   3. Gaussian tricks: Decoder will sample z from q(z|x), The problem here is that backprop will not be able to flow throgh this random node:  
+      <img src="https://user-images.githubusercontent.com/46463022/132406135-3eb944bf-4994-4dbb-a982-728225043508.png" width="600">
 
 
 
