@@ -24,7 +24,7 @@ Zahra
   ### Gaussian Trick
   - Gaussian tricks: Decoder will sample z from q(z|x), The problem here is that backprop will not be able to flow throgh this random node:  
       <img src="https://user-images.githubusercontent.com/46463022/132406135-3eb944bf-4994-4dbb-a982-728225043508.png" width="400">
-      
+  - [Figure: A training-time variational autoencoder implemented as a feedforward neural network, where P(X|z) is Gaussian. Left is without the “reparameterization trick”, and right is with it. Red shows sampling opera- tions that are non-differentiable. Blue shows loss layers. The feedforward behavior of these networks is identical, but backpropagation can be applied only to the right network.](https://arxiv.org/pdf/1606.05908.pdf)  
       <img src="https://user-images.githubusercontent.com/46463022/132412226-b2443581-5023-421f-a2e4-e6172386447e.png" width="500">
 
 
