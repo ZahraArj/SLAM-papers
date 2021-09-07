@@ -14,6 +14,10 @@ Zahra
   - LSTM Networks  
       - hh
       <img src="https://user-images.githubusercontent.com/46463022/132416795-f0adf789-706a-4d86-93d1-e0e58ce2fecc.png" width="400">
+      |Name|Step-by-Step LSTM Walk Through|
+      |-----------------|-----------------|
+      |Forget gate layer|<img src="https://user-images.githubusercontent.com/46463022/132417332-a8524af1-4885-4718-8ca7-22543b9b2857.png">|
+
 
 
 
