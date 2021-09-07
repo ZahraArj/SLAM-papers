@@ -15,7 +15,7 @@ Zahra
       - hh
       <img src="https://user-images.githubusercontent.com/46463022/132416795-f0adf789-706a-4d86-93d1-e0e58ce2fecc.png" width="400">  
       
-      |Name|Step-by-Step LSTM Walk Through|
+      |Name|Step-by-Step LSTM Walk Through|Description|
       | ------------- | ------------- |
       |Forget gate layer|<img src="https://user-images.githubusercontent.com/46463022/132417332-a8524af1-4885-4718-8ca7-22543b9b2857.png" width="400">|
       |Input gate layer|<img src="https://user-images.githubusercontent.com/46463022/132417587-b1cf48ff-c00e-42e8-a07a-1e1dfdac6aaf.png" width="400">|
