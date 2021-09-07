@@ -48,9 +48,11 @@ source: [hal](http://people.binf.ku.dk/~thamelry/MLSB08/hal.pdf)
   | Factor nodes | ![](https://user-images.githubusercontent.com/46463022/132388603-4e803658-27de-42cb-be14-e46351b18458.png)|
   | Variable nodes | ![](https://user-images.githubusercontent.com/46463022/132388686-83b7b068-f1b2-4cc7-9578-9bcb8cdebd33.png)|
   | Edges | ![](https://user-images.githubusercontent.com/46463022/132388775-b6c8230a-4353-4319-837b-a5d980d50a7d.png)|
-  | A factor graph G defines the factorization of a function f (Θ) as:
-  (where Θi is the set of variables θ j adjacent to the factor fi, and independence relationships are encoded by the edges eij)| ![](https://user-images.githubusercontent.com/46463022/132388924-83c321eb-708c-433e-bb60-4a89022daaf7.png)|
+  | A factor graph G defines the factorization of a function f (Θ) as:|![](https://user-images.githubusercontent.com/46463022/132388924-83c321eb-708c-433e-bb60-4a89022daaf7.png)|
+  |  (where Θi is the set of variables θ j adjacent to the factor fi, and independence relationships are encoded by the edges eij)|
+  | Goal is to find the variable assignment Θ∗ that maximizes: |![](https://user-images.githubusercontent.com/46463022/132391432-dd54acbf-b4cc-45df-83f1-ee181fdd2df1.png)|
   |
+
 
 
 
