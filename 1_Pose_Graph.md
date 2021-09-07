@@ -42,7 +42,7 @@ source: [hal](http://people.binf.ku.dk/~thamelry/MLSB08/hal.pdf)
    
    
 ```ruby
-   ***Σ can come from VAE***
+   Σ can come from VAE
 ```
    
 ## [iSAM2](https://www.cs.cmu.edu/~kaess/pub/Kaess12ijrr.pdf)
