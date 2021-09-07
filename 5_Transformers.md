@@ -5,11 +5,11 @@ Zahra
 
 ## [Transformers](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)
 - paper: [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
-- Seq2Seq architecture like 
-- Seq2Seq models consist of an Encoder and a Decoder
-- **The output sequence can be in another language, symbols, a copy of the input, etc.**
 - It does not imply any Recurrent Networks (GRU, LSTM, etc.).
+- 1st Task: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.](https://arxiv.org/pdf/1810.04805.pdf)
+- 2nd Task:...
  
   
- <img width="700" alt="vae-gaussian" src="https://user-images.githubusercontent.com/46463022/132400632-0cb86cc9-1dc6-4753-a6e0-8c42844be46c.png">
+ <img src="https://user-images.githubusercontent.com/46463022/132421458-b69717d0-1aed-4f80-a15d-073cce446cc3.png">
+
   
