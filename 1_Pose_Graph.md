@@ -46,5 +46,7 @@ Zahra
 
 
 ## What is marginalisation
-Marginalisation is a method that requires summing over the possible values of one variable to determine the marginal contribution of another. 
+- Marginalisation is a method that requires summing over the possible values of one variable to determine the marginal contribution of another. 
+  Marginalization is a process of summing a variable X which has a joint distribution with other variables like Y, Z, and so on. Considering 3 random variables, we can mathematically express it as
+  ![](https://user-images.githubusercontent.com/46463022/132374994-1618b69e-2052-4294-a31d-2738bc325aad.png)
 
