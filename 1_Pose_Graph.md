@@ -40,11 +40,9 @@ source: [hal](http://people.binf.ku.dk/~thamelry/MLSB08/hal.pdf)
     <img src="https://user-images.githubusercontent.com/46463022/132265095-32d04d65-bcb6-45ef-a10b-e19902df3e49.png">  
    </p>
    
+   
+```ruby
    ***Σ can come from VAE***
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
 ```
    
 ## [iSAM2](https://www.cs.cmu.edu/~kaess/pub/Kaess12ijrr.pdf)
