@@ -5,6 +5,8 @@ Zahra
 -->
 
 ## [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- Seq2Seq models consist of an Encoder and a Decoder
+- **The output sequence can be in another language, symbols, a copy of the input, etc.**
   - Recurrent Neural Networks: 
     - They are networks with loops in them, allowing information to persist.  
       <img src="https://user-images.githubusercontent.com/46463022/132416289-1753870a-49a0-4a55-8ef9-b19ab83b855b.png" width="300"> 
