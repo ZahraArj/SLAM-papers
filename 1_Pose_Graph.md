@@ -23,6 +23,7 @@ Zahra
 
 
 ## Pose Graph 
+source: [hal](http://people.binf.ku.dk/~thamelry/MLSB08/hal.pdf)
  | Markov Chain | Factor Graph  |
 :-------------------------:|:-------------------------:
 |![](https://user-images.githubusercontent.com/46463022/132266002-c2df2813-07e8-434b-aa14-ac17885b973e.png)|![](https://user-images.githubusercontent.com/46463022/132266011-e1b4e8a0-9bb6-44b5-9019-ef8e04eaceab.png)|
@@ -45,8 +46,15 @@ Zahra
    </p>
 
 
-## What is marginalisation
+## Marginalisation
 - Marginalisation is a method that requires summing over the possible values of one variable to determine the marginal contribution of another.   
-  Marginalization is a process of summing a variable X which has a joint distribution with other variables like Y, Z, and so on. Considering 3 random variables, we can mathematically express it as  
+- Marginalization is a process of summing a variable X which has a joint distribution with other variables like Y, Z, and so on. Considering 3 random variables, we can mathematically express it as  
   ![](https://user-images.githubusercontent.com/46463022/132374994-1618b69e-2052-4294-a31d-2738bc325aad.png)
+  ![](https://user-images.githubusercontent.com/46463022/132375559-52a81bfb-1497-48eb-a73a-bb27321b0378.png)
+
+  
+## Maximization
+![](https://user-images.githubusercontent.com/46463022/132375580-f51b8af6-de77-4f52-aa20-95872d5e2c25.png)
+
+
 
