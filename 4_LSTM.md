@@ -5,8 +5,13 @@ Zahra
 -->
 
 ## [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- Recurrent Neural Networks  
-  ![Screenshot from 2021-09-07 17-37-31](https://user-images.githubusercontent.com/46463022/132416232-76094bb0-4d42-4aa8-91c2-05518b84d5fd.png)
+  - Recurrent Neural Networks: 
+    - They are networks with loops in them, allowing information to persist.
+    ![RNN-unrolled](https://user-images.githubusercontent.com/46463022/132416289-1753870a-49a0-4a55-8ef9-b19ab83b855b.png)
+    ![LSTM3-SimpleRNN](https://user-images.githubusercontent.com/46463022/132416477-f92372bb-5f79-4ea1-b2cb-6050954e3639.png)
+
+  - LSTM Networks
+
 
 
 
