@@ -22,7 +22,7 @@ Zahra
 
 we can compute the screw axis from screw parameters (\boldsymbol{q}, \hat{\boldsymbol{s}}, h) as:  
 
-<img  width="200 align="right" src="https://user-images.githubusercontent.com/46463022/132754648-6750bee9-b32a-4837-9695-6a269f518964.png">
+<img align="right" width="200  src="https://user-images.githubusercontent.com/46463022/132754648-6750bee9-b32a-4837-9695-6a269f518964.png">
 
 
 <img src="https://user-images.githubusercontent.com/46463022/132753770-14b46a46-881c-4315-8e78-ff9933e621ce.png" width="200">
