@@ -34,19 +34,7 @@ By multiplication with an additional parameter theta we can then define a comple
    <img align="left" width="400" src="https://user-images.githubusercontent.com/46463022/132768941-8d155b81-deae-4f93-880d-0ffe6d970ea9.png" />
 </p>
   
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ## DOP: The Dilution of Precision
 
