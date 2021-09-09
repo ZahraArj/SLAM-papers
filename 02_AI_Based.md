@@ -61,7 +61,7 @@ Zahra
 
 ### [2020: Learning-based Bias Correction for Ultra-wideband Localizationof Resource-constrained Mobile Robots ](https://arxiv.org/abs/2003.09371)  
 ![2020](https://user-images.githubusercontent.com/46463022/131751671-faa3a935-83a7-49ce-b38e-5eedd06da3ba.png)   
-    - cited:
+- cited:
         - Benchmark Dataset of Ultra-Wideband Radio Based UAV Positioning
         - [Automated Tuning of End-to-end Neural Flight Controllers for Autonomous Nano-drones](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458550)
         - [Fully Onboard AI-powered Human-Drone Pose Estimation on Ultra-low Power Autonomous Flying Nano-UAVs](https://arxiv.org/pdf/2103.10873.pdf)
