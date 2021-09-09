@@ -40,10 +40,9 @@ By multiplication with an additional parameter theta we can then define a comple
 <br/>
 <br/>
 <br/>
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 ## DOP: The Dilution of Precision
 
