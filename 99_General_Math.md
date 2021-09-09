@@ -20,7 +20,8 @@ Zahra
     
 <img src="https://user-images.githubusercontent.com/46463022/132752705-5a27a1c4-4e18-4c81-90c3-5bdf29ea7a48.png" width="300">  
 
-we can compute the screw axis from screw parameters (\boldsymbol{q}, \hat{\boldsymbol{s}}, h) as: 
+we can compute the screw axis from screw parameters (\boldsymbol{q}, \hat{\boldsymbol{s}}, h) as:  
+
 <img src="https://user-images.githubusercontent.com/46463022/132754390-a3f5c905-bae7-43dd-8650-5a509f02a1bd.png" width="200 align="right">
 
 
