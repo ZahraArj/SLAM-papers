@@ -69,9 +69,9 @@ Zahra
         - [Sensor Information Sharing Using a Producer-Consumer Algorithm on Small Vehicles ](https://www.mdpi.com/1424-8220/21/9/3022/htm)
 <br/>
 <br/>
-    
+      
 ### Visual Localization UoT, Prof. Jonathan Kelly, [STARS Lab](https://starslab.ca/)
-- Deep Pose Correction for Visual Localization
+    - Deep Pose Correction for Visual Localization  
     <img src= "https://user-images.githubusercontent.com/46463022/132727336-fb115aa9-dbc7-4e9f-9b4a-c3f684a1a0f6.png">
 
 <br/>
