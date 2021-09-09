@@ -18,6 +18,9 @@ Zahra
   * [Kullback-Leibler Divergence](http://hanj.cs.illinois.edu/cs412/bk3/KL-divergence.pdf)
 ## 5. EKF
   * [Extended Kalman Filter Tutorial](https://www.cse.sc.edu/~terejanu/files/tutorialEKF.pdf)
+## 6. Lie Algebra
+  * [Learn Lie Algebras: A Walkthrough The Basics](https://www.physicsforums.com/insights/lie-algebras-a-walkthrough-the-basics/)
+
    
 
 <img src="" width="700">
