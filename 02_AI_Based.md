@@ -68,7 +68,7 @@ Zahra
     - [Heading Estimation Using Ultra-wideband Received Signal Strength and Gaussian Processes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508865)
     - [Sensor Information Sharing Using a Producer-Consumer Algorithm on Small Vehicles ](https://www.mdpi.com/1424-8220/21/9/3022/htm)
 - Two-step measurement correction:
-    - bias compensation: ** spatially varying bias of TWR and TDoA measurements
+    - bias compensation: **spatially varying bias of TWR and TDoA measurements**
     - outlier rejection
 
 <br/>
