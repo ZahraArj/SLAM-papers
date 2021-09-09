@@ -11,8 +11,9 @@ Zahra
 ## [SE(3)](https://rock-learning.github.io/pytransform3d/transformations.html)
    The group of all transformations in the 3D Cartesian space is SE(3) (SE: Special Euclidean group). Transformations consist of a rotation and a translation. Those can be represented in different ways just like rotations can be expressed in different ways.  
    All transformation matrices form the special Euclidean group SE(3).  
-   
- <img src="https://user-images.githubusercontent.com/46463022/132751832-1101fca9-34db-48e9-970d-e0b155892fc1.png" width="500" align="center">
+ <p align="center">
+   <img src="https://user-images.githubusercontent.com/46463022/132751832-1101fca9-34db-48e9-970d-e0b155892fc1.png" width="500">
+ </p>
  
  ## Exponential Coordinates  
     Any transformation (rotation and translation) can be expressed by a motion along a screw axis. 
