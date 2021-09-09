@@ -52,7 +52,8 @@ Zahra
 
 <br/>
 <br/>
-    
+
+
 ### UWB UoT, Prof. Angela Schoellig, [Dynamic Systems Lab](https://www.dynsyslab.org/vision-news/)
 
 - [2021: Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots ](https://arxiv.org/abs/2103.01885)  
@@ -66,8 +67,12 @@ Zahra
         - [Fully Onboard AI-powered Human-Drone Pose Estimation on Ultra-low Power Autonomous Flying Nano-UAVs](https://arxiv.org/pdf/2103.10873.pdf)
         - [Heading Estimation Using Ultra-wideband Received Signal Strength and Gaussian Processes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508865)
         - [Sensor Information Sharing Using a Producer-Consumer Algorithm on Small Vehicles ](https://www.mdpi.com/1424-8220/21/9/3022/htm)
+<br/>
+<br/>
     
-
+### Visual Localization UoT, Prof. Jonathan Kelly, [STARS Lab](https://starslab.ca/)
+- Deep Pose Correction for Visual Localization
+    <img src= "https://user-images.githubusercontent.com/46463022/132727336-fb115aa9-dbc7-4e9f-9b4a-c3f684a1a0f6.png">
 
 <br/>
 <br/>
