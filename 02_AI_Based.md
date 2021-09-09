@@ -62,12 +62,15 @@ Zahra
 ### [2020: Learning-based Bias Correction for Ultra-wideband Localizationof Resource-constrained Mobile Robots ](https://arxiv.org/abs/2003.09371)  
 ![2020](https://user-images.githubusercontent.com/46463022/131751671-faa3a935-83a7-49ce-b38e-5eedd06da3ba.png)   
 - cited:
-        - Benchmark Dataset of Ultra-Wideband Radio Based UAV Positioning
-        - [Automated Tuning of End-to-end Neural Flight Controllers for Autonomous Nano-drones](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458550)
-        - [Fully Onboard AI-powered Human-Drone Pose Estimation on Ultra-low Power Autonomous Flying Nano-UAVs](https://arxiv.org/pdf/2103.10873.pdf)
-        - [Heading Estimation Using Ultra-wideband Received Signal Strength and Gaussian Processes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508865)
-        - [Sensor Information Sharing Using a Producer-Consumer Algorithm on Small Vehicles ](https://www.mdpi.com/1424-8220/21/9/3022/htm)
-     - 
+    - Benchmark Dataset of Ultra-Wideband Radio Based UAV Positioning
+    - [Automated Tuning of End-to-end Neural Flight Controllers for Autonomous Nano-drones](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458550)
+    - [Fully Onboard AI-powered Human-Drone Pose Estimation on Ultra-low Power Autonomous Flying Nano-UAVs](https://arxiv.org/pdf/2103.10873.pdf)
+    - [Heading Estimation Using Ultra-wideband Received Signal Strength and Gaussian Processes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508865)
+    - [Sensor Information Sharing Using a Producer-Consumer Algorithm on Small Vehicles ](https://www.mdpi.com/1424-8220/21/9/3022/htm)
+- Two-step measurement correction:
+    - bias compensation 
+    - outlier rejection
+
 <br/>
 <br/>
       
