@@ -1,3 +1,4 @@
+![Screenshot from 2021-09-09 18-40-35](https://user-images.githubusercontent.com/46463022/132771889-7167482a-2e3b-41c9-949e-f6c43e56adaf.png)
    <!---
 Started to write on Sep 9 2021
 Zahra
@@ -31,7 +32,7 @@ By multiplication with an additional parameter theta we can then define a comple
 <br/>
 
 ## [TDoA vs.TWR](https://arxiv.org/pdf/2008.04248.pdfs)    
-<img align="right" width="400" src="https://user-images.githubusercontent.com/46463022/132768900-fb02c530-ff38-4718-a81a-de739ae1d690.png" /> 
+<img align="right" width="400" src="https://user-images.githubusercontent.com/46463022/132771936-a99bdfec-efd3-44b4-adc7-8ddf510c87a4.png" /> 
 <img align="left" width="400" src="https://user-images.githubusercontent.com/46463022/132768941-8d155b81-deae-4f93-880d-0ffe6d970ea9.png" /> 
 <br/>
 <br/>
@@ -39,10 +40,10 @@ By multiplication with an additional parameter theta we can then define a comple
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+![Screenshot from 2021-09-09 18-40-35](https://user-images.githubusercontent.com/46463022/132771936-a99bdfec-efd3-44b4-adc7-8ddf510c87a4.png)
+
+
+
 
 ## DOP: The Dilution of Precision
 
