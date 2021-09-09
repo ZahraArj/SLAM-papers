@@ -28,10 +28,10 @@ By multiplication with an additional parameter theta we can then define a comple
 
 ## [TDoA vs.TWR](https://arxiv.org/pdf/2008.04248.pdfs)  
 <p align="right">
-   <img align="right" width="400" src="https://user-images.githubusercontent.com/46463022/132768900-fb02c530-ff38-4718-a81a-de739ae1d690.png">
+   <img align="right" width="300" src="https://user-images.githubusercontent.com/46463022/132768900-fb02c530-ff38-4718-a81a-de739ae1d690.png"/>
 </p> 
 <p align="right">
-   <img align="left" width="400" src="https://user-images.githubusercontent.com/46463022/132768941-8d155b81-deae-4f93-880d-0ffe6d970ea9.png" />
+   <img align="left" width="300" src="https://user-images.githubusercontent.com/46463022/132768941-8d155b81-deae-4f93-880d-0ffe6d970ea9.png" />
 </p>
   
 
