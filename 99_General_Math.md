@@ -15,7 +15,8 @@ Zahra
    <img src="https://user-images.githubusercontent.com/46463022/132751832-1101fca9-34db-48e9-970d-e0b155892fc1.png" width="500">
  </p>
  
- ## Exponential Coordinates  
-    Any transformation (rotation and translation) can be expressed by a motion along a screw axis.      
-    <img src="https://user-images.githubusercontent.com/46463022/132752705-5a27a1c4-4e18-4c81-90c3-5bdf29ea7a48.png">
+## Exponential Coordinates  
+   Any transformation (rotation and translation) can be expressed by a motion along a screw axis.      
+    
+<img src="https://user-images.githubusercontent.com/46463022/132752705-5a27a1c4-4e18-4c81-90c3-5bdf29ea7a48.png">
 
