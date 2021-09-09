@@ -27,9 +27,10 @@ By multiplication with an additional parameter \theta we can then define a compl
 <img align="right" width="200" src="https://user-images.githubusercontent.com/46463022/132753770-14b46a46-881c-4315-8e78-ff9933e621ce.png">
 
 ## [TDoA vs.TWR](Robust and Scalable Techniques for TWR and TDoA based localization using Ultra Wide Band Radios)  
+
 <img align="right" width="200" src="https://user-images.githubusercontent.com/46463022/132768900-fb02c530-ff38-4718-a81a-de739ae1d690.png">  
 <img align="left" width="200" src="https://user-images.githubusercontent.com/46463022/132768941-8d155b81-deae-4f93-880d-0ffe6d970ea9.png">  
-
+  
 <br/>
 <br/>
 
