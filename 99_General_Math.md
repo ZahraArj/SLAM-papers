@@ -60,6 +60,12 @@ By multiplication with an additional parameter theta we can then define a comple
 ## DOP: The Dilution of Precision
 - DOP provides a gain factor, which is a dimension-less number – it says how much the position error is amplified at a given point of space by the anchors’ geometry. To make it clear, the distance between anchors does not affect DOP at all. It is just their pure geometry that has an impact.
 - The idea of Geometric DOP is to state how errors in the measurement will affect the final state estimation.
+- DOP can be expressed as a number of separate measurements:
+    - HDOP – horizontal dilution of precision
+    - VDOP – vertical dilution of precision
+    - PDOP – position (3D) dilution of precision
+    - TDOP – time dilution of precision
+    - GDOP – geometric dilution of precision
 
 
 
