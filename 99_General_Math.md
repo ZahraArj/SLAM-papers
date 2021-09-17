@@ -31,7 +31,7 @@ By multiplication with an additional parameter theta we can then define a comple
 <br/>
 <br/>
 
-## [TDoA vs.TWR](https://arxiv.org/pdf/2008.04248.pdfs)    
+## [TDoA vs.TWR](https://www.mdpi.com/1424-8220/18/6/1875)    
 <img align="right" width="400" src="https://user-images.githubusercontent.com/46463022/132772005-229411ec-96fa-449d-b691-c6df1db1b59a.png" />   
 <img align="left" width="400" src="https://user-images.githubusercontent.com/46463022/132771936-a99bdfec-efd3-44b4-adc7-8ddf510c87a4.png" />   
 
