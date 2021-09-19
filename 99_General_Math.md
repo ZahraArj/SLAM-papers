@@ -86,7 +86,8 @@ DOP Rating :
    - 7 – 8 Moderate 
    - 9 – 20 Fair 
    - 21 – 50 Poor
-- Reminder: (Dev. Score, centered Matrix) Xc= X - $$\tilde{X}$$
+- Reminder: (Dev. Score, centered Matrix) Xc= X - x̄
+- 
 
 
 
