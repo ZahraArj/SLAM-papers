@@ -66,7 +66,7 @@ By multiplication with an additional parameter theta we can then define a comple
     - PDOP – position (3D) dilution of precision
     - TDOP – time dilution of precision
     - GDOP – geometric dilution of precision
-    - 
+
 <p align="center">
    <img src=https://user-images.githubusercontent.com/46463022/133940483-b96725a7-ef5d-4c62-86e0-92411ab89644.png>
 </p>
