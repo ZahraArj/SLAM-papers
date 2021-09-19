@@ -61,7 +61,7 @@ By multiplication with an additional parameter theta we can then define a comple
 - DOP provides a gain factor, which is a dimension-less number – it says how much the position error is amplified at a given point of space by the anchors’ geometry. To make it clear, the distance between anchors does not affect DOP at all. It is just their pure geometry that has an impact.
 - The idea of Geometric DOP is to state how errors in the measurement will affect the final state estimation.
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/46463022/133940819-99f276b5-b94d-41f5-b350-52669dc159ff.png">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/46463022/133940819-99f276b5-b94d-41f5-b350-52669dc159ff.png">
 
 - DOP can be expressed as a number of separate measurements:
     - HDOP – horizontal dilution of precision
