@@ -71,6 +71,14 @@ By multiplication with an additional parameter theta we can then define a comple
    <img src=https://user-images.githubusercontent.com/46463022/133940483-b96725a7-ef5d-4c62-86e0-92411ab89644.png>
 </p>
 
+DOP Rating 
+1 Ideal 
+2 – 3 Excellent 
+4 – 6 Good 
+7 – 8 Moderate 
+9 – 20 Fair 
+21 – 50 Poor
+
 
 
 
