@@ -87,7 +87,8 @@ DOP Rating :
    - 9 – 20 Fair 
    - 21 – 50 Poor
 
-***Reminder: (Dev. Score, centered Matrix) Xc= X - X̄***  
+***Reminder:***  
+***(Dev. Score, centered Matrix) Xc= X - X̄***  
 ***Cov_Matrix: Xc'Xc/n***
 
 
