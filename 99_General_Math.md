@@ -36,7 +36,8 @@ By multiplication with an additional parameter theta we can then define a comple
 <img align="left" width="400" src="https://user-images.githubusercontent.com/46463022/132771936-a99bdfec-efd3-44b4-adc7-8ddf510c87a4.png" />
 <br/>
 <br/>
-rij = ‖p −pi‖−‖p −pj ‖  
+rij = ‖p −pi‖−‖p −pj ‖ 
+<br/>
 ri = ‖p −pi‖
 
 <br/>
