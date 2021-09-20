@@ -117,21 +117,19 @@ Let Y be N(μ,σ2), the normal distrubution with parameters μ and σ2.
 ## Expected Value- Variance -Covariance [NUMPY](https://machinelearningmastery.com/introduction-to-expected-value-variance-and-covariance/)
 
 ### Expected Value
-- In probability, the average value of some random variable X is called the expected value or the expectation.
-- mean, average, and expected value are used interchangeably
-E[X] = sum(x1 * p1, x2 * p2, x3 * p3, ..., xn * pn)
-mu = sum(x1, x2, x3, ..., xn) . 1/n
-mu = sum(x . P(x))
+In probability, the average value of some random variable X is called the expected value or the expectation.
+mean, average, and expected value are used interchangeably
+- E[X] = sum(x1 * p1, x2 * p2, x3 * p3, ..., xn * pn)
+- mu = sum(x1, x2, x3, ..., xn) . 1/n
+- mu = sum(x . P(x))
 
 ### Variance
-- In probability, the variance of some random variable X is a measure of how much values in the distribution vary on average with respect to the mean
-
-Var[X] = E[(X - E[X])^2]
-Var[X] = sum (p(x1) . (x1 - E[X])^2, p(x2) . (x2 - E[X])^2, ..., p(x1) . (xn - E[X])^2)
-sigma^2 = sum from 1 to n ( (xi - mu)^2 ) . 1 / (n - 1) (minus 1 to correct for a bias)
+In probability, the variance of some random variable X is a measure of how much values in the distribution vary on average with respect to the mean
+- Var[X] = E[(X - E[X])^2]
+- Var[X] = sum (p(x1) . (x1 - E[X])^2, p(x2) . (x2 - E[X])^2, ..., p(x1) . (xn - E[X])^2)
+- sigma^2 = sum from 1 to n ( (xi - mu)^2 ) . 1 / (n - 1) (minus 1 to correct for a bias)
 
 ### Covariance
-  	
-cov(X, Y) = E[(X - E[X]) . (Y - E[Y])]
-cov(X, Y) = sum (x - E[X]) * (y - E[Y]) * 1/n
-cov(X, Y) = sum (x - E[X]) * (y - E[Y]) * 1/(n - 1)
+- cov(X, Y) = E[(X - E[X]) . (Y - E[Y])]
+- cov(X, Y) = sum (x - E[X]) * (y - E[Y]) * 1/n
+- cov(X, Y) = sum (x - E[X]) * (y - E[Y]) * 1/(n - 1)
