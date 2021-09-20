@@ -75,7 +75,11 @@ Zahra
     - Systematic biases 
     - NLOS
     - Multipath propagation
-
+- Since multi-path and NLOS propagation effects depend on a particular indoor environment, we only use the NN to explicitly model the pose-dependent bias. 
+- Outlier Rejection
+    - Robot’s dynamics to filter inconsistent UWB range measurements: the maximum distance max a quadcopter can cover during time ∆t: dmax = ‖v∆t + 1
+2 amax∆t2‖
+    - statistical hypothesis
 <br/>
 <br/>
       
