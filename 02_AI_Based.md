@@ -35,6 +35,7 @@ Zahra
       <img src="https://user-images.githubusercontent.com/46463022/131920410-d063251f-64e3-4340-97ab-08562b5d987e.png" height="200">
     </p>
     <br/>
+    
 2. **[Radar Odometry Combining Probabilistic Estimation and Unsupervised Feature Learning](https://arxiv.org/pdf/2105.14152.pdf)**
     - Same lab  
     - Not ICRA, **arxiv**   
@@ -58,6 +59,13 @@ Zahra
 
 ### [2021: Learning-based Bias Correction for Time Difference of Arrival Ultra-wideband Localization of Resource-constrained Mobile Robots ](https://arxiv.org/abs/2103.01885)  
 ![2021](https://user-images.githubusercontent.com/46463022/131751263-a1e44428-31bc-495f-8f5f-13f93756a9cd.png)
+
+#### Theory
+- Due to the model nonlinearity, we use an M-estimation based extended Kalman filter (EKF) to estimate the states. Replacing the quadratic cost function in a conventional Kalman filter with a robust cost function ρ(·)—e.g. Geman- McClure (G-M), Huber or Cauchy.
+    - The M estimators: try to reduce the effect of outliers by replacing the squared residuals r^2 by another function of the residuals, yielding: minⵉρ(r)
+    - The standard least squares metho d tries to minimize minⵉ(r^2) which is unstable if there are outliers present in the data.
+![Screenshot from 2021-09-20 16-08-08](https://user-images.githubusercontent.com/46463022/134068445-f411f5bf-3cfc-4d33-919e-7ac2c8e9eb06.png)
+
 
 ### [2020: Learning-based Bias Correction for Ultra-wideband Localizationof Resource-constrained Mobile Robots ](https://arxiv.org/abs/2003.09371)  
 ![2020](https://user-images.githubusercontent.com/46463022/131751671-faa3a935-83a7-49ce-b38e-5eedd06da3ba.png)   
