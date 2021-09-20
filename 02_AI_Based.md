@@ -76,7 +76,7 @@ Zahra
 
 2. **NN Bias compensation: spatially varying bias of TWR and TDoA measurements**
     * Exclusively trained our NN with measurement whose actual bias less within a threshold of 0.7m
-
+##### Notes
 - Mitigation of UWB TWR measurement errors: (most of them leverage **probabilistic methods**)
     - Systematic biases 
     - NLOS
