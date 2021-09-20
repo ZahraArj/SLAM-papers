@@ -69,17 +69,20 @@ Zahra
 - [Sensor Information Sharing Using a Producer-Consumer Algorithm on Small Vehicles ](https://www.mdpi.com/1424-8220/21/9/3022/htm)
 #### Theory
 - Two-step measurement correction:
-    - NN Bias compensation: **spatially varying bias of TWR and TDoA measurements**
     - Statistical outlier rejection
+        - Robot’s dynamics to filter inconsistent UWB range measurements: the maximum distance max a quadcopter can cover during time ∆t: dmax = ‖v∆t + 1
+2 amax∆t2‖
+        - statistical hypothesis: S = GPG + R (EKF: use the χ2 hypothesis test to determine whether a measurement innovation is likely coming from the distribution)
+- Exclusively trained our NN with measurement whose actual bias less within a threshold of 0.7m
+    - NN Bias compensation: **spatially varying bias of TWR and TDoA measurements**
+
 - Mitigation of UWB TWR measurement errors: (most of them leverage **probabilistic methods**)
     - Systematic biases 
     - NLOS
     - Multipath propagation
 - Since multi-path and NLOS propagation effects depend on a particular indoor environment, we only use the NN to explicitly model the pose-dependent bias. 
 - Outlier Rejection
-    - Robot’s dynamics to filter inconsistent UWB range measurements: the maximum distance max a quadcopter can cover during time ∆t: dmax = ‖v∆t + 1
-2 amax∆t2‖
-    - statistical hypothesis
+ 
 <br/>
 <br/>
       
