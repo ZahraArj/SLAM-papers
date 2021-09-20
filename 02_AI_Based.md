@@ -68,14 +68,14 @@ Zahra
 - [Heading Estimation Using Ultra-wideband Received Signal Strength and Gaussian Processes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508865)
 - [Sensor Information Sharing Using a Producer-Consumer Algorithm on Small Vehicles ](https://www.mdpi.com/1424-8220/21/9/3022/htm)
 #### Theory
-- Two-step measurement correction:
-    1. **Statistical outlier rejection**
-        * Robot’s dynamics to filter inconsistent UWB range measurements: the maximum distance max a quadcopter can cover during time ∆t: dmax = ‖v∆t + 1
+##### Two-step measurement correction:
+1. **Statistical outlier rejection**
+    * Using robot’s dynamics to filter inconsistent UWB range measurements: the maximum distance max a quadcopter can cover during time ∆t: dmax = ‖v∆t + 1
 2 amax∆t2‖
-        * statistical hypothesis: S = GPG + R (EKF: use the χ2 hypothesis test to determine whether a measurement innovation is likely coming from the distribution)
+    * statistical hypothesis: S = GPG + R (EKF: use the χ2 hypothesis test to determine whether a measurement innovation is likely coming from the distribution)
 
-    2. **NN Bias compensation: spatially varying bias of TWR and TDoA measurements**
-        * Exclusively trained our NN with measurement whose actual bias less within a threshold of 0.7m
+2. **NN Bias compensation: spatially varying bias of TWR and TDoA measurements**
+    * Exclusively trained our NN with measurement whose actual bias less within a threshold of 0.7m
 
 - Mitigation of UWB TWR measurement errors: (most of them leverage **probabilistic methods**)
     - Systematic biases 
