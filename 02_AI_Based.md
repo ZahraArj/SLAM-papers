@@ -100,6 +100,10 @@ Zahra
  
 #### Theory:
 * In contrast to other methods that completely replace a classical visual estimator with a deep network, we propose an approach that uses a convolutional neural network to learn difficult-to-model **corrections to the estimator** from ground-truth training data. 
+* A novel loss function for learning **SE(3) corrections based on a matrix Lie groups** approach, with a natural formulation for balancing translation and rotation errors
+* They **use this loss to train** a Deep Pose Correction network (DPC-Net) that predicts corrections for a particular estimator, sensor and environment.
+* Others for loss function : based on SE(3) geodesic distance.
+* Their loss naturally balances translation and rotation error without requiring a hand-tuned scalar hyper-paramete
 
 <br/>
 <br/>
