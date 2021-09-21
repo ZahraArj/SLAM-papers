@@ -97,6 +97,9 @@ Zahra
 ### Visual Localization UoT, Prof. Jonathan Kelly, [STARS Lab](https://starslab.ca/)
 - [DPC-Net: Deep Pose Correction for Visual Localization] (https://arxiv.org/pdf/1709.03128.pdf) 
  <img src= "https://user-images.githubusercontent.com/46463022/132727336-fb115aa9-dbc7-4e9f-9b4a-c3f684a1a0f6.png">
+ 
+#### Theory:
+* In contrast to other methods that completely replace a classical visual estimator with a deep network, we propose an approach that uses a convolutional neural network to learn difficult-to-model **corrections to the estimator** from ground-truth training data. 
 
 <br/>
 <br/>
