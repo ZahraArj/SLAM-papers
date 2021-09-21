@@ -19,7 +19,9 @@ Zahra
    <img src="https://user-images.githubusercontent.com/46463022/134244626-0f3364f0-b8d2-4297-83bd-0305029d5756.png" width="500">
 
  </p>
- 
+## SO(3)
+The group of all rotations about the origin of three-dimensional Euclidean space R^3 under the operation of composition.
+
 ## Exponential Coordinates  
    Any transformation (rotation and translation) can be expressed by a motion along a screw axis.      
     
