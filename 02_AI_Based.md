@@ -99,11 +99,10 @@ Zahra
 - [2020: Self-Supervised Deep Pose Corrections for Robust Visual Odometry](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197562)
 - [2018: VDPC-Net: Deep Pose Correction for Visual Localization](https://arxiv.org/pdf/1709.03128.pdf) 
  <img src= "https://user-images.githubusercontent.com/46463022/132727336-fb115aa9-dbc7-4e9f-9b4a-c3f684a1a0f6.png">
- 
-2020
----
-2018
----
+ 2020
+ ---
+ 2018
+ ---
 #### Theory:
 * In contrast to other methods that completely replace a classical visual estimator with a deep network, we propose an approach that uses a convolutional neural network to learn difficult-to-model **corrections to the estimator** from ground-truth training data. 
 * A novel loss function for learning **SE(3) corrections based on a matrix Lie groups** approach, with a natural formulation for balancing translation and rotation errors
