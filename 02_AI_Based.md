@@ -94,8 +94,10 @@ Zahra
 <br/>
 <br/>
       
-### Visual Localization UoT, Prof. Jonathan Kelly, [STARS Lab](https://starslab.ca/)
-- [DPC-Net: Deep Pose Correction for Visual Localization](https://arxiv.org/pdf/1709.03128.pdf) 
+### isual Localization UoT, Prof. Jonathan Kelly, [STARS Lab](https://starslab.ca/)
+
+- [2020: Self-Supervised Deep Pose Corrections for Robust Visual Odometry](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197562)
+- [2018: VDPC-Net: Deep Pose Correction for Visual Localization](https://arxiv.org/pdf/1709.03128.pdf) 
  <img src= "https://user-images.githubusercontent.com/46463022/132727336-fb115aa9-dbc7-4e9f-9b4a-c3f684a1a0f6.png">
  
 #### Theory:
@@ -107,6 +109,14 @@ Zahra
 
 <br/>
 <br/>
+
+#### Cited
+1- [Learning Wheel Odometry and IMU Errors for Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794237)
+2- [A Smooth Representation of Belief over SO(3) for Deep Rotation Learning with Uncertainty](https://arxiv.org/pdf/2006.01031.pdf)
+3- [The Complex-Step Derivative Approximation on Matrix Lie Groups](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957301)
+4- [Probabilistic Regression of Rotations using Quaternion Averaging and a Deep Multi-Headed Network](https://arxiv.org/pdf/1904.03182.pdf)
+5- [mproving Learning-based Ego-motion Estimation with Homomorphism-based Losses and Drift Correction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8968515)
+5- [A Stacked LSTM-Based Approach for Reducing Semantic Pose Estimation ErrorRana](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9235399)
 
 
 ### Comparision between different methods
