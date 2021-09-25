@@ -13,7 +13,6 @@ Zahra
 - The logarithmic map ln(·) : G → gmaps an element of the matrix Lie group to the matrix Lie algebra, and is computed by the matrix logarithm.  
 
 <br/>
-<br/>
 
 - **Theorem:** There is an equivalence between the category of complex simply connected Lie groups and category of complex Lie algebras.
 - Lie groups  
@@ -21,6 +20,11 @@ Zahra
 
 - Lie algebras
 ![Screenshot from 2021-09-25 17-45-11](https://user-images.githubusercontent.com/46463022/134786719-235762d9-34ef-42b2-8efa-738e2eb77503.png)  
+  The Lie algebra of the rotation group SO(3) consists of antisymmetric 3x3 matrices, which must have the form
+
+![Screenshot from 2021-09-25 18-01-12](https://user-images.githubusercontent.com/46463022/134786964-458b9cf1-8367-4d54-9d40-bb1cc8fd8d0a.png)  
+By the way, the elements of the Lie algebra so(3) are usually represented by the angular velocity ω⃗ =(ω1,ω2,ω3) such that multiplication becomes the cross product: 
+![Screenshot from 2021-09-25 18-01-28](https://user-images.githubusercontent.com/46463022/134786973-5a39323f-1b5b-483b-8ec3-3640f8ef702c.png)
 
 
 
