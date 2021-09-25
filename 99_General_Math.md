@@ -5,7 +5,10 @@ Zahra
 -->
 
 ## [Lie Algebras](https://www.math.uni-hamburg.de/home/wockel/teaching/data/cohomology_of_lie_algebras_imani.pdf)
-[Basics of Classical Lie Groups: TheExponential Map, Lie Groups, and Lie Algebras](https://www.cis.upenn.edu/~cis610/geombchap14.pdf)
+[Basics of Classical Lie Groups: TheExponential Map, Lie Groups, and Lie Algebras](https://www.cis.upenn.edu/~cis610/geombchap14.pdf
+
+The wedge operator (·)∧ : Rn → g maps a column matrix to the matrix Lie algebra. 
+The exponential map exp(·) : g→ G maps an element of the matrix Lie algebra to the matrix Lie group, and is computed using the matrix exponential. 
 
 ## [Exponential map](https://math.stackexchange.com/questions/999515/meaning-of-exponential-map)
    The idea of an exponential is the continuous compounding of small actions.
