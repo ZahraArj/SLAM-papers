@@ -7,8 +7,22 @@ Zahra
 ## [Lie Algebras](https://www.math.uni-hamburg.de/home/wockel/teaching/data/cohomology_of_lie_algebras_imani.pdf)
 [Basics of Classical Lie Groups: TheExponential Map, Lie Groups, and Lie Algebras](https://www.cis.upenn.edu/~cis610/geombchap14.pdf
 
-The wedge operator (·)∧ : Rn → g maps a column matrix to the matrix Lie algebra. 
-The exponential map exp(·) : g→ G maps an element of the matrix Lie algebra to the matrix Lie group, and is computed using the matrix exponential. 
+- The wedge operator (·)∧ : Rn → g maps a column matrix to the matrix Lie algebra. 
+- The “vee” operator (·)∨ : g→ Rn maps an element of the matrix Lie algebra to a column matrix.
+- The exponential map exp(·) : g→ G maps an element of the matrix Lie algebra to the matrix Lie group, and is computed using the matrix exponential.
+- The logarithmic map ln(·) : G → gmaps an element of the matrix Lie group to the matrix Lie algebra, and is computed by the matrix logarithm.  
+
+<br/>
+<br/>
+
+- **Theorem:** There is an equivalence between the category of complex simply connected Lie groups and category of complex Lie algebras.
+- Lie groups  
+![Screenshot from 2021-09-25 17-46-07](https://user-images.githubusercontent.com/46463022/134786733-8acdce12-2474-49f7-b60f-c8ac97721aec.png)
+
+- Lie algebras
+![Screenshot from 2021-09-25 17-45-11](https://user-images.githubusercontent.com/46463022/134786719-235762d9-34ef-42b2-8efa-738e2eb77503.png)  
+
+
 
 ## [Exponential map](https://math.stackexchange.com/questions/999515/meaning-of-exponential-map)
    The idea of an exponential is the continuous compounding of small actions.
