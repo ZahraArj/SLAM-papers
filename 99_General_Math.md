@@ -4,8 +4,9 @@ Started to write on Sep 9 2021
 Zahra
 -->
 
-## [Lie Algebras](https://www.math.uni-hamburg.de/home/wockel/teaching/data/cohomology_of_lie_algebras_imani.pdf)
-[Basics of Classical Lie Groups: TheExponential Map, Lie Groups, and Lie Algebras](https://www.cis.upenn.edu/~cis610/geombchap14.pdf
+## [Lie Algebras](https://www.math.uni-hamburg.de/home/wockel/teaching/data/cohomology_of_lie_algebras_imani.pdf)  
+[Basics of Classical Lie Groups: TheExponential Map, Lie Groups, and Lie Algebras](https://www.cis.upenn.edu/~cis610/geombchap14.pdf)  
+[Lie groups and Lie algebras](http://math.uchicago.edu/~womp/2001/lie.pdf)  
 
 - The wedge operator (·)∧ : Rn → g maps a column matrix to the matrix Lie algebra. 
 - The “vee” operator (·)∨ : g→ Rn maps an element of the matrix Lie algebra to a column matrix.
