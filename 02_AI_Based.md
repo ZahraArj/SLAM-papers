@@ -97,13 +97,14 @@ Zahra
 ### Visual Localization UoT, Prof. Jonathan Kelly, [STARS Lab](https://starslab.ca/)
 
 - [2020: Self-Supervised Deep Pose Corrections for Robust Visual Odometry](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197562)
+  ![Screenshot from 2021-09-26 15-49-42](https://user-images.githubusercontent.com/46463022/134822075-a9a7bdb6-5daa-436c-89f5-3a6c6c9a70a5.png)
 - [2018: VDPC-Net: Deep Pose Correction for Visual Localization](https://arxiv.org/pdf/1709.03128.pdf) 
  <img src= "https://user-images.githubusercontent.com/46463022/132727336-fb115aa9-dbc7-4e9f-9b4a-c3f684a1a0f6.png">
  
 2020
 ---
 They replace the supervised loss of DPC-Net with a photometric reconstruction loss that does not require any external ground truth pose information.
-![Screenshot from 2021-09-26 15-49-42](https://user-images.githubusercontent.com/46463022/134822075-a9a7bdb6-5daa-436c-89f5-3a6c6c9a70a5.png)
+
 
 2018
 ---
