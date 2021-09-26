@@ -20,6 +20,10 @@ Zahra
 ![Screenshot from 2021-09-25 17-46-07](https://user-images.githubusercontent.com/46463022/134786733-8acdce12-2474-49f7-b60f-c8ac97721aec.png)
 ![Screenshot from 2021-09-26 12-29-38](https://user-images.githubusercontent.com/46463022/134816068-b4967832-d31a-42c2-b843-aaf61499b5f6.png)
 
+![Screenshot from 2021-09-26 14-17-43](https://user-images.githubusercontent.com/46463022/134819483-ffa72148-832a-4a8e-8b75-48abb59ca5ba.png)
+![Screenshot from 2021-09-26 14-19-43](https://user-images.githubusercontent.com/46463022/134819527-e23a83e2-e34b-452f-800a-c02ccfae11c4.png)
+
+
 ### Lie algebras
    - Each Lie group has a corresponding Lie Algebra
    - Lie Algebra is a local property of Lie Group
