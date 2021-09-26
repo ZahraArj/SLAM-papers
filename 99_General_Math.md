@@ -18,14 +18,14 @@ Zahra
 - **Theorem:** There is an equivalence between the category of complex simply connected Lie groups and category of complex Lie algebras.
 - Lie groups  
 ![Screenshot from 2021-09-25 17-46-07](https://user-images.githubusercontent.com/46463022/134786733-8acdce12-2474-49f7-b60f-c8ac97721aec.png)
-
+![Screenshot from 2021-09-26 12-29-38](https://user-images.githubusercontent.com/46463022/134816068-b4967832-d31a-42c2-b843-aaf61499b5f6.png)
 
 - Lie algebras
    - Each Lie group has a corresponding Lie Algebra
    - Lie Algebra is a local property of Lie Group
 ![Screenshot from 2021-09-25 17-45-11](https://user-images.githubusercontent.com/46463022/134786719-235762d9-34ef-42b2-8efa-738e2eb77503.png)  
   The Lie algebra of the rotation group SO(3) consists of antisymmetric 3x3 matrices, which must have the form:
-![Screenshot from 2021-09-26 12-29-38](https://user-images.githubusercontent.com/46463022/134816068-b4967832-d31a-42c2-b843-aaf61499b5f6.png)
+
 
   ![Screenshot from 2021-09-25 18-01-12](https://user-images.githubusercontent.com/46463022/134786964-458b9cf1-8367-4d54-9d40-bb1cc8fd8d0a.png)  
   By the way, the elements of the Lie algebra so(3) are usually represented by the angular velocity ω⃗ =(ω1,ω2,ω3) such that multiplication becomes the cross product: 
