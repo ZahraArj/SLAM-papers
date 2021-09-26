@@ -102,6 +102,8 @@ Zahra
  
 2020
 ---
+They replace the supervised loss of DPC-Net with a photometric reconstruction loss that does not require any external ground truth pose information.
+![Screenshot from 2021-09-26 15-49-42](https://user-images.githubusercontent.com/46463022/134822075-a9a7bdb6-5daa-436c-89f5-3a6c6c9a70a5.png)
 
 2018
 ---
