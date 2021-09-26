@@ -118,6 +118,13 @@ They replace the supervised loss of DPC-Net with a photometric reconstruction lo
 * Others for loss function : based on SE(3) geodesic distance.
 * Their loss naturally balances translation and rotation error without requiring a hand-tuned scalar hyper-paramete
 
+Tcorr corrects a classical VO estimate:
+![Screenshot from 2021-09-26 16-37-38](https://user-images.githubusercontent.com/46463022/134823411-4c71f420-e14d-4ea5-8f6e-966b870580ca.png)
+To **parameterize this correction**:
+![Screenshot from 2021-09-26 16-37-46](https://user-images.githubusercontent.com/46463022/134823429-f72f0e0d-8a22-483f-a16d-4b33bc3e0613.png)
+
+
+
 <br/>
 <br/>
 
