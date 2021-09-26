@@ -106,7 +106,7 @@ Zahra
 2020
 ---
 They replace the supervised loss of DPC-Net with a photometric reconstruction loss that does not require any external ground truth pose information.
-
+**Note: Self supervised vs unsupervised: There is a supervised training signal in these methods.**
 
 2018
 ---
