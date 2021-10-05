@@ -133,3 +133,6 @@ In probability, the variance of some random variable X is a measure of how much 
 - cov(X, Y) = E[(X - E[X]) . (Y - E[Y])]
 - cov(X, Y) = sum (x - E[X]) * (y - E[Y]) * 1/n
 - cov(X, Y) = sum (x - E[X]) * (y - E[Y]) * 1/(n - 1)
+
+## Sources:
+[1](https://www.cs.cmu.edu/~kaess/pub/Dellaert17fnt.pdf)
