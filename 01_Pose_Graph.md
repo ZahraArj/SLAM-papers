@@ -75,8 +75,8 @@ source: [hal](http://people.binf.ku.dk/~thamelry/MLSB08/hal.pdf)
 
 
 
-
-
+## Bayes theorem
+![Capture](https://user-images.githubusercontent.com/46463022/136096588-0c679440-71d5-437b-baa5-aceef15a76da.PNG)
 
    
 ## Probability
