@@ -10,4 +10,6 @@ This task processes each scan by dividing it into four identical sub-regions. A 
 
 ![Screenshot from 2021-10-15 12-09-25](https://user-images.githubusercontent.com/46463022/137519145-83290d06-8103-4e95-94b6-8195065d7c35.png)
 
+where Ris the set of points from a sub-region of a scan (R⊂Pk). Additionally, p(i,k) and p(j,k) represent the ith and jth point vectors of the sweep k of R. Additionally, || ||represents the L2 norm.
+
 
