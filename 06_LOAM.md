@@ -26,3 +26,5 @@ Convolution is a mathematical way of combining two signals to form a third signa
 ```python
 print("hello world!")
 ```
+
+> :warning: **If you are using mobile browser**: Be very careful here!
