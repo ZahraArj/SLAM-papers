@@ -21,5 +21,6 @@
 
 
 
-| :full_moon: Note: Convolution is a mathematical way of combining two signals to form a third signal. This means that the filter convolves around the input volume by shifting n unit at a time. |
+| :full_moon: Note: Convolution is a mathematical way of combining two signals to form a third signal. This means that the filter convolves around the input volume by shifting n unit at a time.
+product of the Fourier Transforms of the functions |
 | --- |
