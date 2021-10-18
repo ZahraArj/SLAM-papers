@@ -22,9 +22,5 @@
 
 Convolution is a mathematical way of combining two signals to form a third signal
 
-
-```python
-print("hello world!")
-```
-| WARNING: be careful to baz the quux before initializing the retro encabulator! |
+| :full_moon_with_face: Note: Convolution is a mathematical way of combining two signals to form a third signal |
 | --- |
