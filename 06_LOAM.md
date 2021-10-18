@@ -18,7 +18,7 @@
 - || ||represents the L2 norm.
 
 
-     Convolution is a mathematical way of combining two signals to form a third signal
+Convolution is a mathematical way of combining two signals to form a third signal
 
 
 
