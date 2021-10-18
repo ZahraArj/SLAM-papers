@@ -18,15 +18,7 @@
 - || ||represents the L2 norm.
 
 
-Convolution is a mathematical way of combining two signals to form a third signal
-
----
-**NOTE**
-
-It works with almost all markdown flavours (the below blank line matters).
-
----
-
+     Convolution is a mathematical way of combining two signals to form a third signal
 
 
 
