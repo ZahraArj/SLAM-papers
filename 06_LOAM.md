@@ -22,5 +22,5 @@
 
 Convolution is a mathematical way of combining two signals to form a third signal
 
-| :full_moon_with_face: Note: Convolution is a mathematical way of combining two signals to form a third signal |
+| :full_moon: Note: Convolution is a mathematical way of combining two signals to form a third signal |
 | --- |
