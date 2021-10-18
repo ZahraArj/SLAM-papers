@@ -26,3 +26,8 @@ Convolution is a mathematical way of combining two signals to form a third signa
 It works with almost all markdown flavours (the below blank line matters).
 
 ---
+
+
+~ ~ ~
+Box made with Triple Tildes (remove the spaces between the tildes to make this work)
+~ ~ ~
