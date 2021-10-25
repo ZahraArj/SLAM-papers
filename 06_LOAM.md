@@ -15,7 +15,7 @@
 
 ![Screenshot from 2021-10-15 12-09-25](https://user-images.githubusercontent.com/46463022/137519145-83290d06-8103-4e95-94b6-8195065d7c35.png)
 
-- Ris the set of points from a sub-region of a scan (R⊂Pk). 
+- R is the set of points from a sub-region of a scan (R⊂Pk). 
 - p(i,k) and p(j,k) represent the ith and jth point vectors of the sweep k of R. 
 - || ||represents the L2 norm.
 
@@ -23,3 +23,11 @@
 
 | :full_moon: Note: Convolution is a mathematical way of combining two signals to form a third signal. This means that the filter convolves around the input volume by shifting n unit at a time. Equal to product of the Fourier Transforms of the functions |
 | --- |
+
+* selecting feature points
+* unreliable: 
+    * avoid points whose surrounded points are selected
+    * points on local planar surfaces that are roughly parallel to the laser beams (point B in Fig. 4(a))
+    * points that are on boundary of occluded regions
+    
+![](https://user-images.githubusercontent.com/46463022/138727497-5e05cb8e-45b3-40b8-bd53-d042a0657e46.PNG)
