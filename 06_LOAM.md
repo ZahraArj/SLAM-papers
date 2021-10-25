@@ -40,12 +40,10 @@
 
 input:  
     1- ~Pk: Pk that reprojected to time stamp tk+1   
-        sd
-        sd
     2- Pk+1:  
          Ek+1 edge points 
          Hk+1 planar points  
     
-Finding correspondences between the two lidar clouds  
+Finding correspondences between the two lidar clouds:    
     * The lidar odometry recursively estimates the 6-DOF motion during the sweep, and gradually includes more points as Pk+1 increases. 
     * At each iteration, Ek+1 and Hk+1 are reprojected to the beginning of the sweep using the currently estimated transform. Let  ̃Ek+1 and  ̃Hk+1 be the reprojected point sets. For each point in  ̃Ek+1 and  ̃Hk+1, we are going to find the closest neighbor point in  ̄Pk. Here,  ̄Pk is stored in a 3D KD-tree [24] for fast index.
