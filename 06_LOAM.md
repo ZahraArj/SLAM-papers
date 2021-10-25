@@ -24,7 +24,7 @@
 | :full_moon: Note: Convolution is a mathematical way of combining two signals to form a third signal. This means that the filter convolves around the input volume by shifting n unit at a time. Equal to product of the Fourier Transforms of the functions |
 | --- |
 
-### Feature Point Extraction
+
 * The points in a scan are sorted based on the c values (maximum c’s: edge points, minimum c’s: planar points.) (larger or smaller than a threshold,)
 * To evenly distribute the feature points within the environment:  separate a scan into four identical subregions. (Each subregion: maximally 2 edge points and 4 planar points. )
 * the number of selected points does not exceed the maximum.
@@ -36,8 +36,8 @@
     
 ![](https://user-images.githubusercontent.com/46463022/138727497-5e05cb8e-45b3-40b8-bd53-d042a0657e46.PNG)
 
-### Finding Feature Point Correspondence
+# 2. Finding Feature Point Correspondence
 
-input:
-1- ~Pk: Pk that reprojected to time stamp tk+1 
-2- Pk+1 
+input:  
+    1- ~Pk: Pk that reprojected to time stamp tk+1   
+    2- Pk+1  
