@@ -39,10 +39,10 @@
 # 2. Finding Feature Point Correspondence
 
 Inputs:  
-    1- ~Pk: Pk that reprojected to time stamp tk+1   
-    2- Pk+1:  
-         Ek+1 edge points 
-         Hk+1 planar points  
+* ~Pk: Pk that reprojected to time stamp tk+1   
+* Pk+1:  
+    * Ek+1 edge points 
+    * Hk+1 planar points  
     
 Finding correspondences between the two lidar clouds:    
 * The lidar odometry recursively estimates the 6-DOF motion during the sweep, and gradually includes more points as Pk+1 increases. 
