@@ -5,7 +5,7 @@ Conventional navigation systems are able to provide either constant-time updates
 
 1. Pose Graph
 2.  EKF-based methods:
-  *  Maintain constant-time updates by marginalizing out all past variables
+  *  Maintain constant-time updates by marginalizing out all past variables  
     -  Variations on the EKF, such as augmented state filters or fixed-lag smoothers, maintain only a subset of the past states to improve estimation accuracy and allow the incorporation of measurements involving these additional states.
   *  Fuse the local estimation into the global frame gradually
   *  An accurate initial guess about the transformation between different frames is required to guarantee convergence.
