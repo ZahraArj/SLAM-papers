@@ -15,7 +15,7 @@ Conventional navigation systems are able to provide either constant-time updates
 ## **Loop Closure:**
 * Estimate the value of all past states within the optimization  
 * Computational complexity
-* ven while leveraging the inherent sparsity of the problem and utilizing the latest algorithms for performing incremental inference, constant-time updates in the presence of loop closures cannot be achieved.
+* Even while leveraging the inherent sparsity of the problem and utilizing the latest algorithms for performing incremental inference, constant-time updates in the presence of loop closures cannot be achieved.
 
 ### 3. Pose Graph
 ### 4. Bundle Adjustment
