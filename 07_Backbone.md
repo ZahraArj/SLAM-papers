@@ -28,7 +28,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181037/
 ## Vidual SLAM
 1. Feature Based SLAM
 2. Direct SLAM
-3. RGB-D SLAM
+3. RGB-D SLAM  
 ![Screenshot from 2021-10-26 19-07-18](https://user-images.githubusercontent.com/46463022/138973630-2c726c52-d7d4-409b-8ee7-ad5172c59d34.png)
 
 ## LiDAR Based SLAM
