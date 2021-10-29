@@ -25,7 +25,7 @@ Providing both: **Parallelization**
  * **Challenge:** the information exchange or synchronization of the two processes
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7181037/
-## Vidual SLAM
+## Visual SLAM
 1. Feature Based SLAM
 2. Direct SLAM
 3. RGB-D SLAM  
