@@ -8,9 +8,9 @@ Conventional navigation systems are able to provide either constant-time updates
   *  Maintain constant-time updates by marginalizing out all past variables   
      *  Variations on the EKF, such as augmented state filters or fixed-lag smoothers, maintain only a subset of the past states to improve estimation accuracy
   *  Fuse the local estimation into the global frame gradually  
-  **Disadvantages**  
-  *  An accurate initial guess about the transformation between different frames is required to guarantee convergence.
-  *  Sensitive to time synchronization: Any late-coming measurements will cause trouble since states cannot be propagated back in filter procedure.
+  * **Disadvantages**  
+    *  An accurate initial guess about the transformation between different frames is required to guarantee convergence.
+    *  Sensitive to time synchronization: Any late-coming measurements will cause trouble since states cannot be propagated back in filter procedure.
 ### 2. Particle Filter (Sequential Monte Carlo)
 
 ## **Loop Closure:**
