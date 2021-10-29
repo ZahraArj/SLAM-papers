@@ -22,7 +22,8 @@ Conventional navigation systems are able to provide either constant-time updates
 ### 3. Pose Graph
 ### 4. Bundle Adjustment
 
-Providing both: **Parallelization**
+<span style="font-family:Papyrus; font-size:4em;">Providing both: Parallelization</span>
+
  * **Basic idea:** have a low-latency process update the current state at a high rate while a slower background process performs ful.
  * **Challenge:** the information exchange or synchronization of the two processes
 
