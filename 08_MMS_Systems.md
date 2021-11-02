@@ -16,4 +16,9 @@
    * Hussnain et al. (2018) extracted the known landmarks in the environment as control points. (against SLAM idea)
 
 ### Maximum a posteriori estimation  
-multi-source data fusion technique
+* multi-source data fusion technique 
+* From the perspective of probability, the estimation of robot poses can be transformed as maximizing the conditional distribution of robot pose, given the noise model of all on- board sensors.
+  * (1) filtering methods, e.g. Extended Kalman Filter (EKF), and Particle Filter (PF), 
+  * (2) and smoothing methods.
+    * Full smoothing: optimizes entire history of states
+    * Fixed-lag smoothing: optimizes states falling within a given time window (compromise of filter approaches and full smoothing approaches. accuracy is higher than filter approaches because they re-linearize past measurements.)
