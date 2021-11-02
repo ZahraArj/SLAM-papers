@@ -41,3 +41,8 @@ Failure: structureless environment or under rapid rotation
    * he changes of poses were estimated by exploiting the projective data associations between current laser scan and a rendered model view from the global point cloud map.
  * 5. **SuMa++:** SuMa + RangeNet++
    * Improve the registration accuracy in dynamic environment: Remove the moving objects in the point cloud and build a semantic map.
+ ### SLAM + MMS  (during GNSS outages)
+ * Indoortechniques: indoor environment is well-structured, i.e. indoor free space is flat and full of lines and surfaces: Good for 2D SLAM solutions
+   * Gmapping
+   * Cartographer
+ 
