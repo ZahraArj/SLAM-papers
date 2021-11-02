@@ -26,12 +26,18 @@
       * The disadvantage is that the marginalization of old tates destructs the sparsity of hessian matrix, which decreases the effciency of optimization.
     * iSAM (Incremental Smoothing and Mappng): STOA. Opimizes a small subset of variables dentified as affected nodes by the new measurement
 ### LiDAR-based SLAM
-* Failure: structureless environment or under rapid rotation
-* classical point-based **ICP** registration
+Failure: structureless environment or under rapid rotation
+* 1. classical point-based **ICP** registration
   * Costs too much on closest points searching
   * May get stuck into the local optimum, when a bad initial is provided
- * **LOAM**
+ * 2. **LOAM**
    *  divided SLAM prblem into the odometry and the mapping thread (performed feature-based scan-to-scan registration on odometry at high frequency, while preformed feature-based scan-to-map registration on the parallel Mapping thread at lower frequency)
    *  lacks an optimization back-end, which makes error accumulation
- * **Lego_Loam**: Aded an optimization back-end for LOAM\
- * SuMa(Surfel Mapping): 
+ * 3. **Lego_Loam**: Aded an optimization back-end for LOAM\
+ * 4. **SuMa(Surfel Mapping):** surfel-based SLAM
+   * A global surfel-based map was constructed and maintained. 
+   * The surfel-based ICP algorithm is a variation of classical ICP.
+   * It project points as the depth image, so that correspondences can be directly found by indexing the same pixel in a pair of successive depth images, which avoids the costly searching and increase the convergency of the estimation iteration.
+   * he changes of poses were estimated by exploiting the projective data associations between current laser scan and a rendered model view from the global point cloud map.
+ * 5. **SuMa++:** SuMa + RangeNet++
+   * Improve the registration accuracy in dynamic environment: Remove the moving objects in the point cloud and build a semantic map.
