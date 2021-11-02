@@ -21,4 +21,17 @@
   * (1) filtering methods, e.g. Extended Kalman Filter (EKF), and Particle Filter (PF), 
   * (2) and smoothing methods.
     * Full smoothing: optimizes entire history of states
-    * Fixed-lag smoothing: optimizes states falling within a given time window (compromise of filter approaches and full smoothing approaches. accuracy is higher than filter approaches because they re-linearize past measurements.)
+    * Fixed-lag smoothing: optimizes states falling within a given time window 
+      * compromise of filter approaches and full smoothing approaches. accuracy is higher than filter approaches because they re-linearize past measurements.)
+      * The disadvantage is that the marginalization of old tates destructs the sparsity of hessian matrix, which decreases the effciency of optimization.
+    * iSAM (Incremental Smoothing and Mappng): STOA. Opimizes a small subset of variables dentified as affected nodes by the new measurement
+### LiDAR-based SLAM
+* Failure: structureless environment or under rapid rotation
+* classical point-based **ICP** registration
+  * Costs too much on closest points searching
+  * May get stuck into the local optimum, when a bad initial is provided
+ * **LOAM**
+   *  divided SLAM prblem into the odometry and the mapping thread (performed feature-based scan-to-scan registration on odometry at high frequency, while preformed feature-based scan-to-map registration on the parallel Mapping thread at lower frequency)
+   *  lacks an optimization back-end, which makes error accumulation
+ * **Lego_Loam**: Aded an optimization back-end for LOAM\
+ * SuMa(Surfel Mapping): 
