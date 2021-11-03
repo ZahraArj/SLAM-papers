@@ -50,8 +50,7 @@ Failure: structureless environment or under rapid rotation
    *  [Pseudo-GNSS/INS system](https://ieeexplore.ieee.org/document/8373382)  
       | Italic             |  Block letters |
       :-------------------------:|:-------------------------:
-      ![Screenshot from 2021-11-03 16-02-31](https://user-images.githubusercontent.com/46463022/140184443-3b8f3481-2f95-4d69-a818-c4259cef2dc6.png)
-      |![Screenshot from 2021-11-03 16-02-42](https://user-images.githubusercontent.com/46463022/140184454-d1be3b14-8c4e-4354-9322-77d27b547681.png)
+      ![Screenshot from 2021-11-03 16-02-31](https://user-images.githubusercontent.com/46463022/140184443-3b8f3481-2f95-4d69-a818-c4259cef2dc6.png)|![Screenshot from 2021-11-03 16-02-42](https://user-images.githubusercontent.com/46463022/140184454-d1be3b14-8c4e-4354-9322-77d27b547681.png)
 
 
    
