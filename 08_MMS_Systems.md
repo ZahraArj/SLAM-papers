@@ -84,7 +84,15 @@ Failure: structureless environment or under rapid rotation
  ![Screenshot from 2021-11-04 16-03-52](https://user-images.githubusercontent.com/46463022/140411779-d6c1dbf4-c060-4eb6-9a28-711bbcc5d535.png)|![Screenshot from 2021-11-04 16-04-01](https://user-images.githubusercontent.com/46463022/140411795-ee84bece-1065-4a4c-b3a5-7c4ad9a0a28c.png)
  Scan-to-map registration factor|Map-to-map registration factor
  
+ ### Cited
  
+ 1- Continuous-Time Laser Frames Associating and Mapping via Multilayer Optimization  
+ *  No GNSS/INS
+ *   normal distributions transform (NDT) and ICP
+ ![Screenshot from 2021-11-04 17-45-38](https://user-images.githubusercontent.com/46463022/140424670-e4938714-3fad-4505-b7ba-04f014b2421e.png)
+
+ 
+![Screenshot from 2021-11-04 17-55-11](https://user-images.githubusercontent.com/46463022/140425701-038f143f-ac75-485a-9d94-4ea97809fc00.png)
 
 
 
