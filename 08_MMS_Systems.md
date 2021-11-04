@@ -91,7 +91,7 @@ Failure: structureless environment or under rapid rotation
  *  Normal distributions transform (NDT) and ICP  
  *  Continuous-time laser frames associating and mapping framework  
     * 1- Intraframe point cloud segmentation (RANSAC)
-    * 2- Interframe point cloud association (NDT)
+    * 2- Interframe point cloud association (NDT)  
          match the consecutive frames with the ground points and effective non-ground points
     ![Screenshot from 2021-11-04 17-45-38](https://user-images.githubusercontent.com/46463022/140424670-e4938714-3fad-4505-b7ba-04f014b2421e.png)
  * Three-layer point cloud association technique.
