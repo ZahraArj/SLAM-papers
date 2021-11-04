@@ -54,10 +54,10 @@ Failure: structureless environment or under rapid rotation
       |  GNSS/INS-based MMS             |  proposed Pseudo-GNSS/INS framework |
       :-------------------------:|:-------------------------:
       ![Screenshot from 2021-11-03 16-02-31](https://user-images.githubusercontent.com/46463022/140184443-3b8f3481-2f95-4d69-a818-c4259cef2dc6.png)|![Screenshot from 2021-11-03 16-02-42](https://user-images.githubusercontent.com/46463022/140184454-d1be3b14-8c4e-4354-9322-77d27b547681.png)
-   * [Image-assisted gnss/ins navigation for uav-based mobile mapping systems during gnss outages.]()
+   *  [Image-assisted gnss/ins navigation for uav-based mobile mapping systems during gnss outages.]()
      * Hierarchical filter along with smoothers
-     |  idea             |  detailed  |
-     :-------------------------:|:-------------------------:
-     ![Screenshot from 2021-11-03 16-37-26](https://user-images.githubusercontent.com/46463022/140188949-aaae8e23-79b2-4b51-a113-68c2f4cac4c7.png)|![Screenshot from 2021-11-03 16-39-39](https://user-images.githubusercontent.com/46463022/140189224-7c159643-ddfc-435b-94a0-990b828e97be.png)
+       |  idea             |  detailed  |
+       :-------------------------:|:-------------------------:
+       ![Screenshot from 2021-11-03 16-37-26](https://user-images.githubusercontent.com/46463022/140188949-aaae8e23-79b2-4b51-a113-68c2f4cac4c7.png)|![Screenshot from 2021-11-03 16-39-39](https://user-images.githubusercontent.com/46463022/140189224-7c159643-ddfc-435b-94a0-990b828e97be.png)
 
    
