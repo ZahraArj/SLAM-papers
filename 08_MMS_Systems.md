@@ -79,10 +79,9 @@ Failure: structureless environment or under rapid rotation
    
    ![Screenshot from 2021-11-04 13-28-22](https://user-images.githubusercontent.com/46463022/140389526-c8b06632-ff8d-4bdf-a092-7f84eb2225c7.png)
 ### Hierarchical optimization structure
-|  Local refinement             |  Global refinement  |
-:-------------------------:|:-------------------------:
-
-![Screenshot from 2021-11-04 16-03-52](https://user-images.githubusercontent.com/46463022/140411779-d6c1dbf4-c060-4eb6-9a28-711bbcc5d535.png)|![Screenshot from 2021-11-04 16-04-01](https://user-images.githubusercontent.com/46463022/140411795-ee84bece-1065-4a4c-b3a5-7c4ad9a0a28c.png)
+ | Local refinement | Global refinement |
+ :-------------------------:|:-------------------------:
+ ![Screenshot from 2021-11-04 16-03-52](https://user-images.githubusercontent.com/46463022/140411779-d6c1dbf4-c060-4eb6-9a28-711bbcc5d535.png)|![Screenshot from 2021-11-04 16-04-01](https://user-images.githubusercontent.com/46463022/140411795-ee84bece-1065-4a4c-b3a5-7c4ad9a0a28c.png)
 
 
 
