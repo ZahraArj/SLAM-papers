@@ -105,14 +105,10 @@ Failure: structureless environment or under rapid rotation
 | --- |
 [NDT:Normal Distributions Transform](https://journals.sagepub.com/doi/10.1177/1729881419841532) :interframe association of sparse point clouds (match the point clouds with a global map)
 | --- |
-The interframe point cloud association method: 
-| --- |
-1- ICP: easy to fall into the local optimum
-| --- |
-2- fast point feature histogram (FPFH): expensive computational costs
-| --- |
-3- Super-4PCS: global search with (RANSAC), ostly in computation but has higher association accuracy
-| --- |
+The interframe point cloud association method: |
+1- ICP: easy to fall into the local optimum|
+2- fast point feature histogram (FPFH): expensive computational costs|
+3- Super-4PCS: global search with (RANSAC), ostly in computation but has higher association accuracy|
 4-  normal distributions transform (NDT): fastest and relatively reliable method
 
 
