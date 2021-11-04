@@ -94,6 +94,10 @@ Failure: structureless environment or under rapid rotation
  * Three-layer point cloud association technique.
     ![Screenshot from 2021-11-04 17-55-11](https://user-images.githubusercontent.com/46463022/140425701-038f143f-ac75-485a-9d94-4ea97809fc00.png)
 
+ | :full_moon: Note: (LOAM):Uses features to align consecutive frames   |
+| --- |
+[NDT](https://journals.sagepub.com/doi/10.1177/1729881419841532) :interframe association of sparse point clouds
+| --- |
 
 
 
