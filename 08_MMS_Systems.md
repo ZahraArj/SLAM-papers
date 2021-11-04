@@ -67,6 +67,7 @@ Failure: structureless environment or under rapid rotation
 1- Green blocks: raw data  
    IMU/GNSS > EKF 
    GNSS Unavailable: IMU only
+   Lidar: Relative transformation
    
    ![Screenshot from 2021-11-04 13-28-22](https://user-images.githubusercontent.com/46463022/140389526-c8b06632-ff8d-4bdf-a092-7f84eb2225c7.png)
 
