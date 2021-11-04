@@ -48,6 +48,7 @@ Failure: structureless environment or under rapid rotation
  * Totally GNSS denied environment
  * GNSS is sporadic
    *  [Pseudo-GNSS/INS system](https://ieeexplore.ieee.org/document/8373382)  
+      These sensors provide the data stream for map construction
       The key of this is transforming the pose estimation by SLAM to Pseudo-GNSS signals. To improve the efficiency of the mapping optimization
       |  GNSS/INS-based MMS             |  proposed Pseudo-GNSS/INS framework |
       :-------------------------:|:-------------------------:
