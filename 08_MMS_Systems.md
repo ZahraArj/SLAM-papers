@@ -89,7 +89,9 @@ Failure: structureless environment or under rapid rotation
  1- Continuous-Time Laser Frames Associating and Mapping via Multilayer Optimization  
  *  No GNSS/INS
  *  Normal distributions transform (NDT) and ICP  
+ *  Continuous-time laser frames associating and mapping framework
     ![Screenshot from 2021-11-04 17-45-38](https://user-images.githubusercontent.com/46463022/140424670-e4938714-3fad-4505-b7ba-04f014b2421e.png)
+ * Three-layer point cloud association technique.
     ![Screenshot from 2021-11-04 17-55-11](https://user-images.githubusercontent.com/46463022/140425701-038f143f-ac75-485a-9d94-4ea97809fc00.png)
 
 
