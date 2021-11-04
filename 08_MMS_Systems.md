@@ -46,8 +46,9 @@ Failure: structureless environment or under rapid rotation
    * Gmapping
    * Cartographer
  * Totally GNSS denied environment
- * GNSS is sporadic:
-   GNSS signals are unavailable  
+ * **GNSS is sporadic:**  
+   GNSS signals are unavailable: Blocked or effected by multi-path effect  
+   They set the time periods of GNSS-denied as 5s, 10s, 15s, 20s, 25s, 30s, 40s, 50s and 60s  
    
    *  1- [Pseudo-GNSS/INS system](https://ieeexplore.ieee.org/document/8373382)  
       These sensors provide the data stream for map construction.  
@@ -68,6 +69,21 @@ Failure: structureless environment or under rapid rotation
    * IMU/GNSS > EKF 
    * GNSS Unavailable: IMU only
    * Lidar: Relative transformation
+2- Pose Graph(first)
+   * IMU preintegrated factors (GNSS signalk locked)
+     * Or odometry factors: GNSS/IMU filter
+   * scan-to-map registration factors (surfel-based:SuMa)
+   * small loop factors (surfel-based:SuMa)
+3- when GNSS signal is lost, construction time of a submap span a long period of time:  surfel-based approach may fail.
+   * change to use point-based registration
    
    ![Screenshot from 2021-11-04 13-28-22](https://user-images.githubusercontent.com/46463022/140389526-c8b06632-ff8d-4bdf-a092-7f84eb2225c7.png)
+### Hierarchical optimization structure
+|  idea             |  detailed  |
+:-------------------------:|:-------------------------:
+
+![Screenshot from 2021-11-04 16-03-52](https://user-images.githubusercontent.com/46463022/140411779-d6c1dbf4-c060-4eb6-9a28-711bbcc5d535.png)|![Screenshot from 2021-11-04 16-04-01](https://user-images.githubusercontent.com/46463022/140411795-ee84bece-1065-4a4c-b3a5-7c4ad9a0a28c.png)
+
+
+
 
