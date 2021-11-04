@@ -93,6 +93,10 @@ Failure: structureless environment or under rapid rotation
     * 1- Intraframe point cloud segmentation (RANSAC)
     * 2- Interframe point cloud association (NDT)  
          match the consecutive frames with the ground points and effective non-ground points
+    * 3- Submap matching (ICP)  
+         the first frame of the submap is used as a key frame
+    * 4- Closed loop detection (NDT)
+    * 5- Graph optimization:
     ![Screenshot from 2021-11-04 17-45-38](https://user-images.githubusercontent.com/46463022/140424670-e4938714-3fad-4505-b7ba-04f014b2421e.png)
  * Three-layer point cloud association technique.
     ![Screenshot from 2021-11-04 17-55-11](https://user-images.githubusercontent.com/46463022/140425701-038f143f-ac75-485a-9d94-4ea97809fc00.png)
