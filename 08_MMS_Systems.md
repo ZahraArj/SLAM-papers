@@ -86,7 +86,7 @@ Failure: structureless environment or under rapid rotation
  
  ### Cited
  
- 1- Continuous-Time Laser Frames Associating and Mapping via Multilayer Optimization  
+ ## 1- Continuous-Time Laser Frames Associating and Mapping via Multilayer Optimization  
  *  No GNSS/INS
  *  Normal distributions transform (NDT) and ICP  
  *  Continuous-time laser frames associating and mapping framework  
@@ -104,12 +104,13 @@ Failure: structureless environment or under rapid rotation
  | :full_moon: Note: (LOAM):Uses features to align consecutive frames   |
 | --- |
 [NDT:Normal Distributions Transform](https://journals.sagepub.com/doi/10.1177/1729881419841532) :interframe association of sparse point clouds (match the point clouds with a global map)
-| --- |
 The interframe point cloud association method: |
 1- ICP: easy to fall into the local optimum|
 2- fast point feature histogram (FPFH): expensive computational costs|
 3- Super-4PCS: global search with (RANSAC), ostly in computation but has higher association accuracy|
 4-  normal distributions transform (NDT): fastest and relatively reliable method
+
+## 2- MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square
 
 
 
