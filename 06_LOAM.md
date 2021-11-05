@@ -6,6 +6,7 @@
 3. [V-LOAM 2015: Visual-lidar Odometry and Mapping: Low-drift, Robust, and Fast](https://frc.ri.cmu.edu/~zhangji/publications/ICRA_2015.pdf) 
 4. [LeGO-LOAM 2018: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594299)  
     - Simplified LOAM (for ground vehicle) + Loop Closing  
+# LOAM
 
 ## 1. Feature Point Extraction
 - Dividing each scan it into four identical sub-regions. 
@@ -49,3 +50,17 @@ Finding correspondences between the two lidar clouds:
 * At each iteration, Ek+1 and Hk+1 are reprojected to the beginning of the sweep using the currently estimated transform. Let  ̃Ek+1 and  ̃Hk+1 be the reprojected point sets. For each point in  ̃Ek+1 and  ̃Hk+1, we are going to find the closest neighbor point in  ̄Pk. Here,  ̄Pk is stored in a 3D KD-tree [24] for fast index.
 
 # Lego LOAM
+* real-time
+* Velodyne
+* Apply point cloud segmentation to filter out noise
+  * Noise
+  * Ground: for planar features
+  * else: for edge features
+  ![image](https://user-images.githubusercontent.com/46463022/140568276-76c105cb-c0e2-4ece-96e5-6f20bbd9687c.png)
+
+* The feature extraction process is similar to LOAM
+  * instead of extracting features from raw point clouds, they extract features from ground points and segmented points.
+* 
+
+![image](https://user-images.githubusercontent.com/46463022/140566673-ecd69c8b-3b85-4020-9312-3b10cbaa7d47.png)
+
