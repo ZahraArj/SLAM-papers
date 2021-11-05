@@ -70,9 +70,15 @@ Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the
 ![image](https://user-images.githubusercontent.com/46463022/140571198-d4688e56-984a-4917-8ace-cdd2d4fc547e.png)
 
 # [Suma2018](http://www.roboticsproceedings.org/rss14/p16.pdf)
-* A dense mapping approach called Surfel-based Mappin  
-  ![image](https://user-images.githubusercontent.com/46463022/140579469-d41fb5e3-b22a-4916-a374-7e3b447ed019.png)
+![image](https://user-images.githubusercontent.com/46463022/140579469-d41fb5e3-b22a-4916-a374-7e3b447ed019.png)
 
+* Projection function Π R3→R2: 
+  * Generate a vertex map VD : R2 7→ R3 mapping a two-dimensional image coordinate (u,v)T ∈ R2 to a point (x,y,z)T ∈ R3. 
+  * Generate a corresponding normal map ND : R2 7→R3 exploiting the vertex map VD  
+    ![image](https://user-images.githubusercontent.com/46463022/140581462-3b4533ba-5956-4396-8599-5fbe39f73271.png)
+
+  
+* A dense mapping approach called Surfel-based Mappin  
 * Surfel -based:
   * Allows us to represent even large-scale environments and maintain dense, , detailed geometric information of the point clouds at the same time.
   * Relatively fast to render
