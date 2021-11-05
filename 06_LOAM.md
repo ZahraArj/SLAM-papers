@@ -52,15 +52,18 @@ Finding correspondences between the two lidar clouds:
 # Lego LOAM
 * real-time
 * Velodyne
-* Apply point cloud segmentation to filter out noise
+## Point cloud segmentation
   * Noise
   * Ground: for planar features
-  * else: for edge features
-  ![image](https://user-images.githubusercontent.com/46463022/140568276-76c105cb-c0e2-4ece-96e5-6f20bbd9687c.png)
+  * else: for edge features  (and planar)
+    ![image](https://user-images.githubusercontent.com/46463022/140568276-76c105cb-c0e2-4ece-96e5-6f20bbd9687c.png)
 
 * The feature extraction process is similar to LOAM
-  * instead of extracting features from raw point clouds, they extract features from ground points and segmented points.
-* 
+  * instead of extracting features from raw point clouds, they extract features from ground points and segmented points. 
 
 ![image](https://user-images.githubusercontent.com/46463022/140566673-ecd69c8b-3b85-4020-9312-3b10cbaa7d47.png)
+
+## Result
+![image](https://user-images.githubusercontent.com/46463022/140570608-3d7e4fb7-d09a-4a44-8e2a-0169b7ef9625.png)
+
 
