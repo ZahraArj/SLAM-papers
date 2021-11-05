@@ -137,7 +137,7 @@ The interframe point cloud association method: |
   * ICP (Iterative closest point)
   * Sparse point-based:   
     * LO, LOAM (The edge and planar points)
-	   * LeGO-LOAM (Conduct ground segmentation )
+    * LeGO-LOAM (Conduct ground segmentation )
   * Dense projective normal ICP: 
     * Suma
 			 * SuMa++ (Semantic masks)
