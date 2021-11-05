@@ -136,11 +136,11 @@ The interframe point cloud association method: |
 ### Local Matching:
   * ICP (Iterative closest point)
   * Sparse point-based:   
-    * LO, LOAM (The edge and planar points)
-    * LeGO-LOAM (Conduct ground segmentation )
+    * LOAM (The edge and planar points)
+    * LeGO-LOAM (Conduct ground segmentation)
   * Dense projective normal ICP: 
     * Suma
-			 * SuMa++ (Semantic masks)
+    * SuMa++ (Semantic masks)
   * Limitations:
     * Requires an initial guess
     * Lose 3D information due to the operation based on range image or scan-line
@@ -151,6 +151,9 @@ The interframe point cloud association method: |
  | Pipeline of geometric feature points extraction and encoding | Pipeline of the multi-metric linear least square ICP |
  :-------------------------:|:-------------------------:
  ![image](https://user-images.githubusercontent.com/46463022/140562735-c24fa299-8d6f-45e5-8696-c54d8a59dbac.png)| ![image](https://user-images.githubusercontent.com/46463022/140563643-c75342bb-561d-42bf-a9f0-84333372cd63.png)|
+ 
+ 
+ 
 
  
 
