@@ -113,7 +113,10 @@ The interframe point cloud association method: |
 ## 2- MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square
 * With low drift 
 * Real-time performance
-* Rank 13th KITTI benchmark
+* Rank 13th KITTI benchmark  
+### Overall workﬂow of MULLS-SLAM
+  ![image](https://user-images.githubusercontent.com/46463022/140562280-179f9bd5-64f9-48c4-8d0d-7aba135b828a.png)
+
 ### Front-end:
   * Roughly classified feature points
   * Multi-metric Linear Square (MULLS) ICP
@@ -141,6 +144,10 @@ The interframe point cloud association method: |
   * Limitations:
     * Requires an initial guess
     * Lose 3D information due to the operation based on range image or scan-line
+### Pose Graph Optimization
+![image](https://user-images.githubusercontent.com/46463022/140562371-80c01399-fd37-482d-aa4b-9ddd497c3d9b.png)
+
+
 
 
 
