@@ -111,6 +111,11 @@ The interframe point cloud association method: |
 4-  normal distributions transform (NDT): fastest and relatively reliable method
 
 ## 2- MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square
+* With low drift 
+* Real-time performance
+* Rank 13th KITTI benchmark
+![image](https://user-images.githubusercontent.com/46463022/140557081-2e7abe06-8f68-4078-932e-402becbaed28.png)
+
 
 
 
