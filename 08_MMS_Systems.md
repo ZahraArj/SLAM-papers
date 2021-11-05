@@ -148,6 +148,13 @@ The interframe point cloud association method: |
 ![image](https://user-images.githubusercontent.com/46463022/140562371-80c01399-fd37-482d-aa4b-9ddd497c3d9b.png)
 
 
+ | Pipeline of geometric feature points extraction and encoding | Pipeline of the multi-metric linear least square ICP |
+ :-------------------------:|:-------------------------:
+ ![image](https://user-images.githubusercontent.com/46463022/140562735-c24fa299-8d6f-45e5-8696-c54d8a59dbac.png)| ![image](https://user-images.githubusercontent.com/46463022/140562868-35db5c89-580d-4191-83f8-b67cf0874f3b.png)|
+
+ 
+
+
 
 
 
