@@ -70,7 +70,7 @@ Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the
 ![image](https://user-images.githubusercontent.com/46463022/140571198-d4688e56-984a-4917-8ace-cdd2d4fc547e.png)
 
 # [Suma2018](http://www.roboticsproceedings.org/rss14/p16.pdf)
-* A dense mapping approach called Surfel-based Mappin
+* A dense mapping approach called Surfel-based Mappin  
   ![image](https://user-images.githubusercontent.com/46463022/140579469-d41fb5e3-b22a-4916-a374-7e3b447ed019.png)
 
 * Surfel -based:
