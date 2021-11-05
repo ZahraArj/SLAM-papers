@@ -86,6 +86,10 @@ Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the
   * A surfel map M is an unordered set of surfels s, where each surfel is defined by a position vs ∈ R3, a normal ns ∈ R3, a radius rs ∈ R.
     ![image](https://user-images.githubusercontent.com/46463022/140579212-70a2b214-d8f7-4480-9993-fade065f1c7d.png)
     
+# [Suma2019](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf)
+![image](https://user-images.githubusercontent.com/46463022/140583249-522ae254-0449-43a3-9d87-15f4ecae1026.png)
+
+    
 
 
 
