@@ -71,6 +71,8 @@ Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the
 
 # [Suma2018](http://www.roboticsproceedings.org/rss14/p16.pdf)
 * A dense mapping approach called Surfel-based Mappin
+  ![image](https://user-images.githubusercontent.com/46463022/140579469-d41fb5e3-b22a-4916-a374-7e3b447ed019.png)
+
 * Surfel -based:
   * Allows us to represent even large-scale environments and maintain dense, , detailed geometric information of the point clouds at the same time.
   * Relatively fast to render
