@@ -49,7 +49,7 @@ Finding correspondences between the two lidar clouds:
 * The lidar odometry recursively estimates the 6-DOF motion during the sweep, and gradually includes more points as Pk+1 increases. 
 * At each iteration, Ek+1 and Hk+1 are reprojected to the beginning of the sweep using the currently estimated transform. Let  ̃Ek+1 and  ̃Hk+1 be the reprojected point sets. For each point in  ̃Ek+1 and  ̃Hk+1, we are going to find the closest neighbor point in  ̄Pk. Here,  ̄Pk is stored in a 3D KD-tree [24] for fast index.
 
-# Lego LOAM
+# [Lego LOAM 2018](https://ieeexplore.ieee.org/document/8594299)
 * real-time
 * Velodyne
 * The feature extraction process is similar to LOAM
@@ -68,5 +68,16 @@ Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the
 ![image](https://user-images.githubusercontent.com/46463022/140570608-3d7e4fb7-d09a-4a44-8e2a-0169b7ef9625.png)
 
 ![image](https://user-images.githubusercontent.com/46463022/140571198-d4688e56-984a-4917-8ace-cdd2d4fc547e.png)
+
+# [Suma2018](http://www.roboticsproceedings.org/rss14/p16.pdf)
+* A dense mapping approach called Surfel-based Mappin
+* Surfel -based:
+  * Allows us to represent even large-scale environments and maintain dense, , detailed geometric information of the point clouds at the same time.
+  * Relatively fast to render
+  * A surfel map M is an unordered set of surfels s, where each surfel is defined by a position vs ∈ R3, a normal ns ∈ R3, a radius rs ∈ R.
+    ![image](https://user-images.githubusercontent.com/46463022/140579212-70a2b214-d8f7-4480-9993-fade065f1c7d.png)
+    
+
+
 
 
