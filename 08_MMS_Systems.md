@@ -126,7 +126,7 @@ The interframe point cloud association method: |
   * TEASER-based global registration 
   * Inter & inner submap PGO
 ### Point Cloud Registration (scan matching):
-  * Local: Requires good initial guess 
+  * Local: Requires good initial guess to finely align two overlapping scans without stuck in the local minima
   * Global: Coarsely align them 
   * Deep Learning
     * First learn to embed points 
