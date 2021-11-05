@@ -114,7 +114,40 @@ The interframe point cloud association method: |
 * With low drift 
 * Real-time performance
 * Rank 13th KITTI benchmark
-![image](https://user-images.githubusercontent.com/46463022/140557081-2e7abe06-8f68-4078-932e-402becbaed28.png)
+* Front-end:
+  * Roughly classified feature points
+  * Multi-metric Linear Square (MULLS) ICP
+  * Local map updating
+* Back-end: 
+  * Submap-based loop closure
+  * TEASER-based global registration 
+  * Inter & inner submap PGO
+* Point Cloud Registration (scan matching):
+  * Local: Requires good initial guess 
+  * Global: Coarsely align them 
+  * Deep Learning
+    * First learn to embed points 
+    * Learn to match keypoints 
+    * Optimization
+      PointNet, DGCNN, PointNetLK, DCP,…
+* Local Matching:
+  * ICP (Iterative closest point)
+  * Sparse point-based:   
+    * LO, LOAM (The edge and planar points)
+	   * LeGO-LOAM (Conduct ground segmentation )
+  * Dense projective normal ICP: 
+    * Suma
+			 * SuMa++ (Semantic masks)
+  * Limitations:
+    * Requires an initial guess
+    * Lose 3D information due to the operation based on range image or scan-line
+
+
+
+
+
+
+ 
 
 
 
