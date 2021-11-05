@@ -64,6 +64,7 @@ Finding correspondences between the two lidar clouds:
 ![image](https://user-images.githubusercontent.com/46463022/140566673-ecd69c8b-3b85-4020-9312-3b10cbaa7d47.png)
 
 ## Result
+Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the **experiment 3** dataset.
 ![image](https://user-images.githubusercontent.com/46463022/140570608-3d7e4fb7-d09a-4a44-8e2a-0169b7ef9625.png)
 
 ![image](https://user-images.githubusercontent.com/46463022/140571198-d4688e56-984a-4917-8ace-cdd2d4fc547e.png)
