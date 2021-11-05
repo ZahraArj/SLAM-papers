@@ -55,9 +55,9 @@ Finding correspondences between the two lidar clouds:
 ## Point cloud segmentation
   * Noise
   * Ground: for planar features
-  * else: for edge features  (and planar)
+  * else: for edge features  (and planar)  
 <br/>
-    ![image](https://user-images.githubusercontent.com/46463022/140568276-76c105cb-c0e2-4ece-96e5-6f20bbd9687c.png)
+![image](https://user-images.githubusercontent.com/46463022/140568276-76c105cb-c0e2-4ece-96e5-6f20bbd9687c.png)
 
 * The feature extraction process is similar to LOAM
   * instead of extracting features from raw point clouds, they extract features from ground points and segmented points. 
