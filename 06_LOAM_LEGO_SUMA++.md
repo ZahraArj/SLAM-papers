@@ -69,7 +69,7 @@ Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the
 
 ![image](https://user-images.githubusercontent.com/46463022/140571198-d4688e56-984a-4917-8ace-cdd2d4fc547e.png)
 
-# [Suma2018](http://www.roboticsproceedings.org/rss14/p16.pdf)
+# [Suma 2018](http://www.roboticsproceedings.org/rss14/p16.pdf)
 ![image](https://user-images.githubusercontent.com/46463022/140579469-d41fb5e3-b22a-4916-a374-7e3b447ed019.png)
 
 * 1- Projection function Π R3→R2: 
@@ -86,7 +86,7 @@ Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the
   * A surfel map M is an unordered set of surfels s, where each surfel is defined by a position vs ∈ R3, a normal ns ∈ R3, a radius rs ∈ R.
     ![image](https://user-images.githubusercontent.com/46463022/140579212-70a2b214-d8f7-4480-9993-fade065f1c7d.png)
     
-# [Suma2019](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf)
+# [Suma++ 2019](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf)
 ![image](https://user-images.githubusercontent.com/46463022/140583249-522ae254-0449-43a3-9d87-15f4ecae1026.png)
 
     
