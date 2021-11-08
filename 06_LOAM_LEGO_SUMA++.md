@@ -73,8 +73,8 @@ Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the
 ![image](https://user-images.githubusercontent.com/46463022/140579469-d41fb5e3-b22a-4916-a374-7e3b447ed019.png)
 
 * 1- Projection function Π R3→R2: 
-  * Generate a vertex map (spherical projection) VD : R2 7→ R3 mapping a two-dimensional image coordinate (u,v)T ∈ R2 to a point (x,y,z)T ∈ R3. 
-  * Generate a corresponding normal map ND : R2 7→R3 exploiting the vertex map VD  
+  * Generate a vertex map (spherical projection) VD : R2 → R3 mapping a two-dimensional image coordinate (u,v)T ∈ R2 to a point (x,y,z)T ∈ R3. 
+  * Generate a corresponding normal map ND : R2 →R3 exploiting the vertex map VD  
     ![image](https://user-images.githubusercontent.com/46463022/140581462-3b4533ba-5956-4396-8599-5fbe39f73271.png)
 * 3- Odometry (ICP)
 
@@ -88,6 +88,19 @@ Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the
     
 # [Suma++ 2019](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2019iros.pdf)
 ![image](https://user-images.githubusercontent.com/46463022/140583249-522ae254-0449-43a3-9d87-15f4ecae1026.png)
+* Real-time
+* Integrating semantic information to facilitate the mapping process.
+* The semantic information is efficiently extracted by a fully convolutional neural network and rendered on a spherical projection of the laser range data.
+* This semantic map enables us to reliably filter moving objects, but also improve the projective scan matching via semantic constraints.
+* It exploits the labels provided by the semantic segmentation to handle moving objects. More specifically, It filters dynamics by checking semantic consistency between the new observation and the world model, when we update the map. If the labels are inconsistent we assume those surfels belong to an object that moved between the scans. Therefore, we add a penalty term to the computation of the stability term in the recursive Bayes filter. After several observations, we can remove the unstable surfels. In this way, we achieve a detection of dynamics and finally a removal.
+* Semantic information: 
+  * Removing moving objects: inconsistency between current scan and the map
+  * Fll-in eroded labels with neighboring labels to get a more consistent result
+  * Creating semantic map
+*Suma:
+  * **Suma
+  * **Suma_no_movable:** naive approach of removing all movable classes (vehicles, persons,...) 
+  * **Suma++**
 
     
 
