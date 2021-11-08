@@ -86,7 +86,7 @@ Failure: structureless environment or under rapid rotation
  
  ### Cited
  
- ## 1- Continuous-Time Laser Frames Associating and Mapping via Multilayer Optimization  
+ ## 1- [Continuous-Time Laser Frames Associating and Mapping via Multilayer Optimization (MDPI sensors 2020)](https://www.mdpi.com/1424-8220/21/1/97)  
  *  No GNSS/INS
  *  Normal distributions transform (NDT) and ICP  
  *  Continuous-time laser frames associating and mapping framework  
@@ -110,7 +110,7 @@ The interframe point cloud association method: |
 3- Super-4PCS: global search with (RANSAC), ostly in computation but has higher association accuracy|
 4-  normal distributions transform (NDT): fastest and relatively reliable method
 
-## 2- MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square
+## 2- [MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square(ICRA 2021)](https://arxiv.org/abs/2102.03771)
 * With low drift 
 * Real-time performance
 * Rank 13th KITTI benchmark  
