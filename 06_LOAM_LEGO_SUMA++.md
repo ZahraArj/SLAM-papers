@@ -97,7 +97,7 @@ Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the
   * Removing moving objects: inconsistency between current scan and the map
   * Fll-in eroded labels with neighboring labels to get a more consistent result
   * Creating semantic map
-*Suma:
+* Suma:
   * **Suma
   * **Suma_no_movable:** naive approach of removing all movable classes (vehicles, persons,...) 
   * **Suma++**
