@@ -114,6 +114,7 @@ The interframe point cloud association method: |
 * With low drift 
 * Real-time performance
 * Rank 13th KITTI benchmark  
+* Geometric feature points extraction
 ### Overall workﬂow of MULLS-SLAM
   ![image](https://user-images.githubusercontent.com/46463022/140562280-179f9bd5-64f9-48c4-8d0d-7aba135b828a.png)
 
