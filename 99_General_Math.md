@@ -136,4 +136,8 @@ DOP Rating :
 ***Cov_Matrix: Xc'Xc/n***
 
 
+## K-d tree
+*  k-dimensional tree) is a space-partitioning data structure for organizing points in a k-dimensional space.
+*  applications: searches involving a multidimensional search key (e.g. range searches and nearest neighbor searches)
+
 
