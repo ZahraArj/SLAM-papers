@@ -123,6 +123,9 @@ To **parameterize this correction**:
 * Others for loss function : based on SE(3) geodesic distance.
 * Their loss naturally balances translation and rotation error without requiring a hand-tuned scalar hyper-paramete
 
+#### cited:
+[Learning error models for graph SLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9196864)
+
 
 
 
