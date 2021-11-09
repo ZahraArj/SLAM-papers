@@ -136,3 +136,4 @@ In probability, the variance of some random variable X is a measure of how much 
 
 ## Sources:
 [1](https://www.cs.cmu.edu/~kaess/pub/Dellaert17fnt.pdf)
+[2.Equivariant Neural Network for Factor Graphs] https://arxiv.org/pdf/2109.14218.pdf
