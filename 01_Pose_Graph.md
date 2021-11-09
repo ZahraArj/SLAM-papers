@@ -135,5 +135,5 @@ In probability, the variance of some random variable X is a measure of how much 
 - cov(X, Y) = sum (x - E[X]) * (y - E[Y]) * 1/(n - 1)
 
 ## Sources:
-[1](https://www.cs.cmu.edu/~kaess/pub/Dellaert17fnt.pdf)
-[2.Equivariant Neural Network for Factor Graphs] https://arxiv.org/pdf/2109.14218.pdf
+[1](https://www.cs.cmu.edu/~kaess/pub/Dellaert17fnt.pdf)  
+[2.Equivariant Neural Network for Factor Graphs](https://arxiv.org/pdf/2109.14218.pdf)
