@@ -13,6 +13,7 @@ Zahra
  2. [2018: Laser-visual-inertial Odometry and Mapping with High Robustness and Low Drift](https://www.researchgate.net/publication/326352534_Laser-visual-inertial_Odometry_and_Mapping_with_High_Robustness_and_Low_Drift)
  3. [2020: LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping](https://arxiv.org/pdf/2007.00258.pdf)
       - Proposing LiDAR odometry factor
+      - The obtained lidar odometry solution is then used to estimate the bias of the IMU in the factor graph.
       - Loop Closure factor
       - Lidar/IMU/GPS
         <img src="https://user-images.githubusercontent.com/46463022/132263667-32ac0a70-3019-40ec-9ed0-8d4cf09738da.png">
