@@ -68,12 +68,12 @@ Failure: structureless environment or under rapid rotation
 1- Green blocks: raw data  
    * IMU/GNSS > EKF 
    * GNSS Unavailable: IMU only
-   * Lidar: Relative transformation
+   * Lidar: Relative transformation  
 2- Pose Graph(first)
    * IMU preintegrated factors (GNSS signalk locked)
      * Or odometry factors: GNSS/IMU filter
    * scan-to-map registration factors (surfel-based:SuMa)
-   * small loop factors (surfel-based:SuMa)
+   * small loop factors (surfel-based:SuMa)  
 3- when GNSS signal is lost, construction time of a submap span a long period of time:  surfel-based approach may fail.
    * change to use point-based registration
    
