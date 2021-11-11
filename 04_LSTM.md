@@ -24,4 +24,15 @@ Zahra
       |Input gate layer|<img src="https://user-images.githubusercontent.com/46463022/132417587-b1cf48ff-c00e-42e8-a07a-1e1dfdac6aaf.png" width="400">|forget layer for input/ Tanh: [-1,1] which information is important|
       |Calculate the cell state|<img src="https://user-images.githubusercontent.com/46463022/132417829-f353abb3-c06b-468c-ab9e-d990dfc0cee7.png" width="400">| dropping values/ input gate|
       |Output gate layer|<img src="https://user-images.githubusercontent.com/46463022/132417857-51e555db-79ff-4154-bbc6-8689078d170c.png" width="400">|
-       
+      
+      
+ ## [Transformer]
+ * Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks. (ex. LSTM)
+ * Seq2Seq: an Encoder and a Decoder. maps it into a higher dimensional space (n-dimensional vector). 
+ * A very basic choice for the Encoder and the Decoder of the Seq2Seq model is a single LSTM for each of them.
+ * The attention-mechanism looks at an input sequence and decides at each step which other parts of the sequence are important.
+ * The attention-mechanism looks at an input sequence and decides at each step which other parts of the sequence are important.
+ * But it does not imply any Recurrent Networks (GRU, LSTM, etc.)
+ * They proved that an architecture with only attention-mechanisms without any RNN (Recurrent Neural Networks) can improve on the results in translation task and other tasks! 
+   ![image](https://user-images.githubusercontent.com/46463022/141361806-01a5d499-b21c-4865-975d-ddb4589bb9a9.png)
+
