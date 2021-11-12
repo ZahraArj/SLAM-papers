@@ -4,6 +4,11 @@ Started to write on Sep 7 2021
 Zahra
 -->
 
+## RNN
+![image](https://user-images.githubusercontent.com/46463022/141521250-77504bf5-e44e-4746-8217-d5140d2a3976.png)
+
+problem: RNNs become very ineffective when the gap between the relevant information and the point where it is needed become very large. That is due to the fact that the information is passed at each step and the longer the chain is, the more probable the information is lost along the chain.
+
 ## [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - Seq2Seq models consist of an Encoder and a Decoder
 - **The output sequence can be in another language, symbols, a copy of the input, etc.**
