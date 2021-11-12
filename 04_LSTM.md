@@ -7,7 +7,8 @@ Zahra
 ## RNN
 ![image](https://user-images.githubusercontent.com/46463022/141521250-77504bf5-e44e-4746-8217-d5140d2a3976.png)
 
-problem: RNNs become very ineffective when the gap between the relevant information and the point where it is needed become very large. That is due to the fact that the information is passed at each step and the longer the chain is, the more probable the information is lost along the chain.
+### problem: 
+RNNs become very ineffective when the gap between the relevant information and the point where it is needed become very large. That is due to the fact that the information is passed at each step and the longer the chain is, the more probable the information is lost along the chain.
 
 ## [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - Seq2Seq models consist of an Encoder and a Decoder
@@ -29,9 +30,15 @@ problem: RNNs become very ineffective when the gap between the relevant informat
       |Input gate layer|<img src="https://user-images.githubusercontent.com/46463022/132417587-b1cf48ff-c00e-42e8-a07a-1e1dfdac6aaf.png" width="400">|forget layer for input/ Tanh: [-1,1] which information is important|
       |Calculate the cell state|<img src="https://user-images.githubusercontent.com/46463022/132417829-f353abb3-c06b-468c-ab9e-d990dfc0cee7.png" width="400">| dropping values/ input gate|
       |Output gate layer|<img src="https://user-images.githubusercontent.com/46463022/132417857-51e555db-79ff-4154-bbc6-8689078d170c.png" width="400">|
+ 
+### Problems:
+* Sequential computation inhibits parallelization
+* No explicit modeling of long and short range dependencies
+* “Distance” between positions is linear
+
+## Attension
       
-      
- ## [Transformer]
+## [Transformer](https://towardsdatascience.com/transformers-141e32e69591)
  * Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks. (ex. LSTM)
  * Seq2Seq: an Encoder and a Decoder. maps it into a higher dimensional space (n-dimensional vector). 
  * A very basic choice for the Encoder and the Decoder of the Seq2Seq model is a single LSTM for each of them.
