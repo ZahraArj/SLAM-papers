@@ -37,6 +37,13 @@ RNNs become very ineffective when the gap between the relevant information and t
 * “Distance” between positions is linear
 
 ## Attension
+Instead of only encoding the whole sentence in a hidden state, each word has a corresponding hidden state that is passed all the way to the decoding stage. 
+
+### Problems:
+For a large corpus of text, this increases the time spent translating the text.
+
+## CNN
+
       
 ## [Transformer](https://towardsdatascience.com/transformers-141e32e69591)
  * Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks. (ex. LSTM)
