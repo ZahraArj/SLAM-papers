@@ -44,6 +44,11 @@ For a large corpus of text, this increases the time spent translating the text.
 
 ## CNN
 
+* 1D Convolution: signal + kernel(filter) = ...
+* CNN can work in parallel:each word on the input can be processed at the same time and does not necessarily depend on the previous words to be translated. 
+* the “distance” between the output word and any input for a CNN is in the order of log(N) — that is the size of the height of the tree generated from the output to the input. That is much better than the distance of the output of a RNN and an input, which is on the order of N.
+* CNN + Attension =transformers
+
       
 ## [Transformer](https://towardsdatascience.com/transformers-141e32e69591)
  * Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks. (ex. LSTM)
@@ -54,4 +59,7 @@ For a large corpus of text, this increases the time spent translating the text.
  * But it does not imply any Recurrent Networks (GRU, LSTM, etc.)
  * They proved that an architecture with only attention-mechanisms without any RNN (Recurrent Neural Networks) can improve on the results in translation task and other tasks! 
    ![image](https://user-images.githubusercontent.com/46463022/141361806-01a5d499-b21c-4865-975d-ddb4589bb9a9.png)
+   
+   
+ * For each word, we create a Query vector, a Key vector, and a Value vector. 
 
