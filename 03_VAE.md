@@ -36,7 +36,7 @@ Zahra
   - Limitations (KL)
 
 ## spherical Gaussian
-*  multidimensional case
+*  multidimensional case  
    ![image](https://user-images.githubusercontent.com/46463022/142900215-b0c4661e-9d94-4913-807b-083c821af75b.png)
 
             
