@@ -9,6 +9,9 @@ Zahra
   - Features: The hidden layer (Latent space, can be 1D, 2D ,...ex,2D: 20*30 ), continuous (μ and standard deviation σ for every dimension)
 ![image](https://user-images.githubusercontent.com/46463022/142942800-64468c4b-014c-4214-ad0b-ca31c93f9239.png)
 
+![image](https://user-images.githubusercontent.com/46463022/142949726-3f1aa32a-3a62-4549-85d6-28d9542d3ee2.png)
+
+
  
  <img width="700" alt="vae-gaussian" src="https://user-images.githubusercontent.com/46463022/132400632-0cb86cc9-1dc6-4753-a6e0-8c42844be46c.png">
  
