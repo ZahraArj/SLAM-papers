@@ -35,7 +35,7 @@ Zahra
   - U-Net
   - Limitations (KL)
 
-## spherical Gaussian
+## [Spherical Gaussian](http://www.inf.ed.ac.uk/teaching/courses/inf2b/learnnotes/inf2b-learn-note08-2up.pdf)
 *  multidimensional case  
    ![image](https://user-images.githubusercontent.com/46463022/142900215-b0c4661e-9d94-4913-807b-083c821af75b.png)
 
