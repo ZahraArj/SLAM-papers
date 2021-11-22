@@ -6,7 +6,7 @@ Zahra
 ## [VAE](https://medium.com/analytics-vidhya/mathematical-prerequisites-for-understanding-autoencoders-and-variational-autoencoders-vaes-8f854025390e)
   - The basic idea behind the VAE proposed by Kingma et al in 2013 is that instead of mapping an input to a fixed vector, the input is mapped to a distribution.
   - The only fundamental difference between an autoencoder and a variational autoencoder is that the bottleneck of the VAE is continuous and replaced by two separate vectors.
-  - Features: The hidden layer (Latent space), continuous (μ and standard deviation σ for every dimension)
+  - Features: The hidden layer (Latent space, can be 1D, 2D ,...ex,2D: 20*30 ), continuous (μ and standard deviation σ for every dimension)
 ![image](https://user-images.githubusercontent.com/46463022/142942800-64468c4b-014c-4214-ad0b-ca31c93f9239.png)
 
  
