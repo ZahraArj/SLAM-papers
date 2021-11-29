@@ -23,7 +23,7 @@ Describes the probability of an event, based on prior knowledge of conditions th
  - Likelihood is the probability (conditional probability) of an event (a set of success) occur by knowing the probability of a success occur.
    <p align="center"> 
     <img src="https://user-images.githubusercontent.com/46463022/132373331-58fc126b-6eb6-4561-a219-501574f1a5cd.png" width="500">
-   </p>
-   <
+   </p> <
+
 
 
