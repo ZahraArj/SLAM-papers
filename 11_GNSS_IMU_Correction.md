@@ -18,3 +18,7 @@ These inputs of varying size and order are commonly referred to as "set-valued i
 3. Deployment of our system on a full-scale autonomous vehicle and demonstration of navigation and improved robustness in the presence of sensor failure
 
 ![image](https://user-images.githubusercontent.com/46463022/144873345-8624d210-92a8-4e5c-97e0-b158d2625cee.png)
+
+
+* out-of-distribution (OOD):events (e.g., sudden changes, sensor failures)
+* Our network is trained to output the hyperparameters defining this distribution, ek = (γk,υk,αk,βk), by jointly maximizing model fit (LNLL) and minimizing evidence on errors (LR).
