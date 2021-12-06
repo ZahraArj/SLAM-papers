@@ -16,3 +16,5 @@ These inputs of varying size and order are commonly referred to as "set-valued i
 1. Fast-LiDARNet, an efficient, hardware-aware, and accurate neural network that operates on raw 3D point clouds with accelerated sparse convolution kernels and runs at 11 FPS on NVIDIA Jetson AGX Xavier;
 2. Hybrid Evidential Fusion, a novel uncertainty-aware fusion algorithm that directly learns prediction uncer- tainties and adaptively integrates predictions from neigh- boring frames to achieve robust autonomous control;
 3. Deployment of our system on a full-scale autonomous vehicle and demonstration of navigation and improved robustness in the presence of sensor failure
+
+![image](https://user-images.githubusercontent.com/46463022/144873345-8624d210-92a8-4e5c-97e0-b158d2625cee.png)
