@@ -10,7 +10,10 @@
 ![image](https://user-images.githubusercontent.com/46463022/144874444-85fc50f5-3b26-4f19-8e60-efaf8a736084.png)
 
 ## Batch Normalization
-* internal covariate shift
+### Problem: The distribution of each layer's input changes during training
+### Solution: Fix the distribution
+*  internal covariate shift
+*  standardizes the inputs to a layer for each mini-batch  
 ![image](https://user-images.githubusercontent.com/46463022/144901870-56f293e1-778c-4e29-849c-0a4704f870e2.png)
 
 * Probably Use Before the Activation
