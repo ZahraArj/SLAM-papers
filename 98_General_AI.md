@@ -9,7 +9,7 @@
 ## Activation: 1_Relu NN
 ![image](https://user-images.githubusercontent.com/46463022/144874444-85fc50f5-3b26-4f19-8e60-efaf8a736084.png)
 
-## Batch Normalization
+## [Batch Normalization](https://www.youtube.com/watch?v=sdXfAY_VD58)
 ### Problem: The distribution of each layer's input changes during training
 ### Solution: Fix the distribution
 *  internal covariate shift
@@ -28,4 +28,9 @@
   * If the mean and standard deviations calculated for each input feature are calculated over the mini-batch instead of over the entire training dataset, then the batch size must be sufficiently representative of the range of each variable.
   * It may not be appropriate for variables that have a data distribution that is highly non-Gaussian, in which case it might be better to perform data scaling as a pre-processing step.
 
+## Residual block
+8 layer feeds into the next layer and directly into the layers about 2–3 hops away. 
+*  allow memory (or information) to flow from initial to last layers.
+*  The skip connections help to address the problem of vanishing and exploding gradients.
+![image](https://user-images.githubusercontent.com/46463022/144903171-bc1d67a2-a5c1-44f2-bfc7-e2ab23b42aaa.png)
 
