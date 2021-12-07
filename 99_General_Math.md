@@ -7,6 +7,8 @@ Zahra
 ## [MLE/MAP and Bayesian inference](https://towardsdatascience.com/mle-map-and-bayesian-inference-3407b2d6d4d9)
 * Given the observed data D, estimations of a probabilistic model’s parameter θ by MLE and MAP are the following.
 ![image](https://user-images.githubusercontent.com/46463022/145089271-986aa1e5-bdcf-40fc-b609-ab537c22ce75.png)
+![image](https://user-images.githubusercontent.com/46463022/145092128-0769f200-dd48-4bac-9b49-18318444f82b.png)
+
 * MLE gives you the value which maximises the Likelihood P(D|θ). And MAP gives you the value which maximises the posterior probability P(θ|D). As both methods give you a single fixed value, they’re considered as point estimators.
 * If a prior probability is given as part of the problem setup, then use that information (i.e. use MAP). If no such prior information is given or assumed, then MAP is not possible, and MLE is a reasonable approach.
 * Bayesian inference fully calculates the posterior probability distribution, as below formula. Hence the output is not a single value but a probability density function (when θ is a continuous variable) or a probability mass function (when θ is a discrete variable).
