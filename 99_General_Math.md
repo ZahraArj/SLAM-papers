@@ -8,7 +8,7 @@ Zahra
 * Given the observed data D, estimations of a probabilistic model’s parameter θ by MLE and MAP are the following.
 ![image](https://user-images.githubusercontent.com/46463022/145089271-986aa1e5-bdcf-40fc-b609-ab537c22ce75.png)
 * MLE gives you the value which maximises the Likelihood P(D|θ). And MAP gives you the value which maximises the posterior probability P(θ|D). As both methods give you a single fixed value, they’re considered as point estimators.
-* MLE gives you the value which maximises the Likelihood P(D|θ). And MAP gives you the value which maximises the posterior probability P(θ|D). As both methods give you a single fixed value, they’re considered as point estimators.
+* Bayesian inference fully calculates the posterior probability distribution, as below formula. Hence the output is not a single value but a probability density function (when θ is a continuous variable) or a probability mass function (when θ is a discrete variable).
 ![image](https://user-images.githubusercontent.com/46463022/145089407-5a6d635c-b04b-4b05-b30f-9bb3fb62da90.png)
 
 **This is the difference between MLE/MAP and Bayesian inference. MLE and MAP returns a single fixed value, but Bayesian inference returns probability density (or mass) function.
