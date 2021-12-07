@@ -4,6 +4,16 @@ Started to write on Sep 9 2021
 Zahra
 -->
 
+## MLE/MAP and Bayesian inference
+* Given the observed data D, estimations of a probabilistic model’s parameter θ by MLE and MAP are the following.
+![image](https://user-images.githubusercontent.com/46463022/145089271-986aa1e5-bdcf-40fc-b609-ab537c22ce75.png)
+* MLE gives you the value which maximises the Likelihood P(D|θ). And MAP gives you the value which maximises the posterior probability P(θ|D). As both methods give you a single fixed value, they’re considered as point estimators.
+* MLE gives you the value which maximises the Likelihood P(D|θ). And MAP gives you the value which maximises the posterior probability P(θ|D). As both methods give you a single fixed value, they’re considered as point estimators.
+![image](https://user-images.githubusercontent.com/46463022/145089407-5a6d635c-b04b-4b05-b30f-9bb3fb62da90.png)
+
+**This is the difference between MLE/MAP and Bayesian inference. MLE and MAP returns a single fixed value, but Bayesian inference returns probability density (or mass) function.
+
+
 ## [Lie Algebras](https://www.math.uni-hamburg.de/home/wockel/teaching/data/cohomology_of_lie_algebras_imani.pdf)  
 [Basics of Classical Lie Groups: TheExponential Map, Lie Groups, and Lie Algebras](https://www.cis.upenn.edu/~cis610/geombchap14.pdf)  
 [Lie groups and Lie algebras](http://math.uchicago.edu/~womp/2001/lie.pdf)  
