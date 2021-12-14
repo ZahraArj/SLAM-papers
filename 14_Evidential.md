@@ -8,3 +8,8 @@
 
 
 * T Distribution: similar to the normal distribution with its bell shape but has heavier tails. T distributions have a greater chance for extreme values than normal distributions, hence the fatter tails. 
+
+## Learning the evidential distribution
+1. As a way of fitting our data to the evidential model while 
+2. Enforces a prior to remove incorrect evidence and inflate uncertainty.
+![image](https://user-images.githubusercontent.com/46463022/145891668-917b644b-0bb0-416b-8918-29077b5eaa74.png)
