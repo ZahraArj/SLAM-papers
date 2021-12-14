@@ -5,9 +5,12 @@
 
 
 ## LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping
-![image](https://user-images.githubusercontent.com/46463022/146050754-5bde44aa-4c0a-4cca-a6fc-2c9f6dfa12b9.png)
 
-![image](https://user-images.githubusercontent.com/46463022/146050785-1deadf7e-b34e-40d7-9c80-a6ed4308d659.png)
+| V![image](https://user-images.githubusercontent.com/46463022/146050754-5bde44aa-4c0a-4cca-a6fc-2c9f6dfa12b9.png)| The system structure of LVI-SAM |
+|----------|:-------------:|
+|![image](https://user-images.githubusercontent.com/46463022/146050785-1deadf7e-b34e-40d7-9c80-a6ed4308d659.png)|he framework of the visual-inertial system|
+
+
 
 ### 1. Visual-Inertial System
 
