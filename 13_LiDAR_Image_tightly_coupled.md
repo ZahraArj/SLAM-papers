@@ -6,7 +6,7 @@
 
 ## LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping
 
-| V![image](https://user-images.githubusercontent.com/46463022/146050754-5bde44aa-4c0a-4cca-a6fc-2c9f6dfa12b9.png)| The system structure of LVI-SAM |
+| ![image](https://user-images.githubusercontent.com/46463022/146050754-5bde44aa-4c0a-4cca-a6fc-2c9f6dfa12b9.png)| The system structure of LVI-SAM |
 |----------|:-------------:|
 |![image](https://user-images.githubusercontent.com/46463022/146050785-1deadf7e-b34e-40d7-9c80-a6ed4308d659.png)| The framework of the visual-inertial system|
 
@@ -40,5 +40,24 @@ system state : x = [ R, p, v, b] . (SO(3): the rotation matrix, position, speed,
 * The VIS suffers from failure due to aggressive motion, illumination change, and texture-less environments.
 * Once a failure is detected, the VIS re-initializes and informs the LIS.
 
-### idar-Inertial System
+#### 4. Loop closure detection
+DBoW2: or each new image keyframe, we extract BRIEF descriptors [23] and match them with previously extracted descriptors. 
+
+### Lidar-Inertial System
+* Lidar odometry constraints are derived from scan-matching, where we match the current lidar keyframe to a global feature map. 
+* The candidates for loop closure constraints are first provided by the VIS and then further optimized by scan-matching. 
+* Maintain a sliding window of lidar keyframes for the feature map, which guarantees bounded computational complexity.
+* The intermittent lidar frames lying between pairs of keyframes are discarded. 
+* Upon the selection of a new lidar keyframe, a new robot state x is added to the factor graph as a node. 
+
+#### 1. Initial guess.
+* Using IMU: They assume the robot starts from a static position with zero velocity. Then we integrate raw IMU measurements assuming the bias and noise are zero-valued. The integrated translational and rotational change between two lidar keyframes produce the initial guess for scan-matching. (Successful : when the initial linear velocity is smaller than 10 m/s and the angular velocity is smaller than 180 ◦/s)
+* Once the LIS is initialized, we estimate the IMU bias, robot pose, and velocity in the factor graph. Then we send them to the VIS to aid its initialization
+* Initial guesses from two sources: IMU with corrected bias and VIS (VIS prioirity. If failure then IMU based)
+#### 2. Failure detection:
+| Failure detection   |
+|----------|
+|![image](https://user-images.githubusercontent.com/46463022/146077378-01699407-9995-4443-9822-bf40d891c090.png)|
+
+
 
