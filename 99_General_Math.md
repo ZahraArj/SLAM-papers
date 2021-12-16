@@ -16,6 +16,8 @@ Zahra
 
 **This is the difference between MLE/MAP and Bayesian inference. MLE and MAP returns a single fixed value, but Bayesian inference returns probability density (or mass) function.
 
+### Deterministic  
+Deterministic is the opposite of a random event. It tells us that some future event can be calculated exactly, without the involvement of randomness.
 
 ## [Lie Algebras](https://www.math.uni-hamburg.de/home/wockel/teaching/data/cohomology_of_lie_algebras_imani.pdf)  
 [Basics of Classical Lie Groups: TheExponential Map, Lie Groups, and Lie Algebras](https://www.cis.upenn.edu/~cis610/geombchap14.pdf)  
