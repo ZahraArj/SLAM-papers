@@ -24,8 +24,11 @@ data points X = ( x 1 , … , x n ),
 parameterized by θ: x~p(x|θ)
 θ is a random variable: θ ~ p(θ|a)
 
-**Mrginalize θ
+**Mrginalize θ  
 ![image](https://user-images.githubusercontent.com/46463022/146449723-f45232e8-272c-46c1-b547-9adba6aee906.png)
+
+**Bayesian Aplication
+![image](https://user-images.githubusercontent.com/46463022/146450052-54157e4c-bd72-4186-867f-03eadc24b6ee.png)
 
 
 ## [Lie Algebras](https://www.math.uni-hamburg.de/home/wockel/teaching/data/cohomology_of_lie_algebras_imani.pdf)  
