@@ -19,6 +19,15 @@ Zahra
 ### Deterministic  
 Deterministic is the opposite of a random event. It tells us that some future event can be calculated exactly, without the involvement of randomness.
 
+## Marginal likelihood
+data points X = ( x 1 , … , x n ), 
+parameterized by θ: x~p(x|θ)
+θ is a random variable: θ ~ p(θ|a)
+
+**Mrginalize θ
+![image](https://user-images.githubusercontent.com/46463022/146449723-f45232e8-272c-46c1-b547-9adba6aee906.png)
+
+
 ## [Lie Algebras](https://www.math.uni-hamburg.de/home/wockel/teaching/data/cohomology_of_lie_algebras_imani.pdf)  
 [Basics of Classical Lie Groups: TheExponential Map, Lie Groups, and Lie Algebras](https://www.cis.upenn.edu/~cis610/geombchap14.pdf)  
 [Lie groups and Lie algebras](http://math.uchicago.edu/~womp/2001/lie.pdf)  
