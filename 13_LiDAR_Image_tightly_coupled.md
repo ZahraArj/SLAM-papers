@@ -10,6 +10,14 @@
 |----------|:-------------:|
 |![image](https://user-images.githubusercontent.com/46463022/146050785-1deadf7e-b34e-40d7-9c80-a6ed4308d659.png)| The framework of the visual-inertial system|
 
+### Motivations:
+**Visuion: Lidar/IMU Ided:**  * Sensitive to 
+* Illumination change
+* Rapid motion
+* Initialization.
+* LiDAR
+
+
 
 
 ### 1. Visual-Inertial System
