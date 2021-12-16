@@ -30,6 +30,9 @@ parameterized by θ: x~p(x|θ)
 **Bayesian Aplication**  
 ![image](https://user-images.githubusercontent.com/46463022/146450052-54157e4c-bd72-4186-867f-03eadc24b6ee.png)
 
+![image](https://user-images.githubusercontent.com/46463022/146450316-052c28aa-b9e2-41b9-979a-d7f22fe731a0.png)
+
+
 
 ## [Lie Algebras](https://www.math.uni-hamburg.de/home/wockel/teaching/data/cohomology_of_lie_algebras_imani.pdf)  
 [Basics of Classical Lie Groups: TheExponential Map, Lie Groups, and Lie Algebras](https://www.cis.upenn.edu/~cis610/geombchap14.pdf)  
