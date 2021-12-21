@@ -35,6 +35,7 @@ Zahra
       <img src="https://user-images.githubusercontent.com/46463022/131920410-d063251f-64e3-4340-97ab-08562b5d987e.png" height="200">
     </p>
     <br/>
+    * Detector Score: The higher the score, the more accurate the model is in its detections.
     
 2. **[Radar Odometry Combining Probabilistic Estimation and Unsupervised Feature Learning](https://arxiv.org/pdf/2105.14152.pdf)**
     - Same lab  
