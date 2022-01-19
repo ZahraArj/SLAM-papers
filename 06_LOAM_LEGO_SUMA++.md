@@ -31,6 +31,9 @@
 * the number of selected points does not exceed the maximum.
 * selecting feature points
 * unreliable: 
+
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8023504
     * avoid points whose surrounded points are selected
     * points on local planar surfaces that are roughly parallel to the laser beams (point B in Fig. 4(a))
     * points that are on boundary of occluded regions
@@ -104,6 +107,8 @@ Paths produced by LOAM and LeGO-LOAM across 10 trials, and 2 computers, with the
 
     
 
-
+#[3D Feature Points Detection on Sparse and Non-uniform Pointcloud for SLAM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8023504)
+![image](https://user-images.githubusercontent.com/46463022/150007536-8ca461bb-28d4-418e-93f0-fc2eea00e0d0.png)
+![image](https://user-images.githubusercontent.com/46463022/150007603-a7097a77-a8a4-4df2-9c6d-ace82d60d6be.png)
 
 
