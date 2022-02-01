@@ -58,11 +58,10 @@
   * Sequence input data
 ### RNN: were designed to work with sequence prediction problems.
 
-Some examples of sequence prediction problems include:  
-
-* One-to-Many: An observation as input mapped to a sequence with multiple steps as an output.
-* Many-to-One: A sequence of multiple steps as input mapped to class or quantity prediction.
-* Many-to-Many: A sequence of multiple steps as input mapped to a sequence with multiple steps as output.
+* Some examples of sequence prediction problems include:  
+  * One-to-Many: An observation as input mapped to a sequence with multiple steps as an output.
+  * Many-to-One: A sequence of multiple steps as input mapped to class or quantity prediction.
+  * Many-to-Many: A sequence of multiple steps as input mapped to a sequence with multiple steps as output.
 
 
 * For:
