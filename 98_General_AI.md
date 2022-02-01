@@ -34,18 +34,46 @@
 *  The skip connections help to address the problem of vanishing and exploding gradients.
 ![image](https://user-images.githubusercontent.com/46463022/144903171-bc1d67a2-a5c1-44f2-bfc7-e2ab23b42aaa.png)
 
-## WHEN
+## WHEN/WHICH
 
-### MLPs:
-* Use MLPs For:
+### MLPs: classical type of neural network
+* For:
   * Tabular datasets
   * Classification prediction problems
   * Regression prediction problems
-* Use MLPs On:
+* On:
   * Image data
   * Text Data
   * Time series data
   * Other types of data
 
+### CNN: designed to map image data to an output variable.
+* For:
+  * Image data
+  * Classification prediction problems
+  * Regression prediction problems
+* ON:
+  * Text data
+  * Time series data
+  * Sequence input data
+### RNN: were designed to work with sequence prediction problems.
+
+Some examples of sequence prediction problems include:  
+
+* One-to-Many: An observation as input mapped to a sequence with multiple steps as an output.
+* Many-to-One: A sequence of multiple steps as input mapped to class or quantity prediction.
+* Many-to-Many: A sequence of multiple steps as input mapped to a sequence with multiple steps as output.
+
+
+* For:
+  * Text data
+  * Speech data
+  * Classification prediction problems
+  * Regression prediction problems
+  * Generative models
+* Not for:
+  * Time series data
+* On:
+  * Time series data
 
 
