@@ -34,3 +34,18 @@
 *  The skip connections help to address the problem of vanishing and exploding gradients.
 ![image](https://user-images.githubusercontent.com/46463022/144903171-bc1d67a2-a5c1-44f2-bfc7-e2ab23b42aaa.png)
 
+## WHEN
+
+### MLPs:
+**Use MLPs For:
+* Tabular datasets
+* Classification prediction problems
+* Regression prediction problems
+**Use MLPs On:
+* Image data
+* Text Data
+* Time series data
+* Other types of data
+
+
+
