@@ -37,15 +37,15 @@
 ## WHEN
 
 ### MLPs:
-**Use MLPs For:
-* Tabular datasets
-* Classification prediction problems
-* Regression prediction problems
-**Use MLPs On:
-* Image data
-* Text Data
-* Time series data
-* Other types of data
+** Use MLPs For:
+  * Tabular datasets
+  * Classification prediction problems
+  * Regression prediction problems
+** Use MLPs On:
+  * Image data
+  * Text Data
+  * Time series data
+  * Other types of data
 
 
 
