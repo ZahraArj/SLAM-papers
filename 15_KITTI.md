@@ -52,3 +52,5 @@ Tr_cam_to_road (3x4): Rigid transformation from (non-rectified) camera to road c
 	* Rotation Angles
 	* Synchronized Time Stamps (μs resolution)
 * GPS		$GPRMC NMEA Sentence from GPS Receiver 
+
+# [KITTI paper](http://www.cvlibs.net/publications/Geiger2013IJRR.pdf)
