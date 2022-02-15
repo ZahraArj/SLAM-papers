@@ -10,7 +10,9 @@ Fast and Robust 3D Feature Extraction from Sparse Point Clouds, IROS 2016
 
 
 * Surface Normal Computation: computed by evaluating the covariance matrix of the Gaussian distribution of all the points that lie in a certain neighborhood of the point.
-![image](https://user-images.githubusercontent.com/46463022/153907985-c7143a33-1b5f-4de9-8de6-7eae07712df8.png)
+
+
+* Fast and Robust 3D Feature Extraction from Sparse Point Clouds, IROS 2016
 
 * PCA: Principal Component Analysis
   The resulting variable contains the eigenvectors (named rotation) and their associated eigenvalues (named sdev). Notice the eigenvectors are sorted by their eigenvalues largest to smallest - the first principle component (eigenvector) represents the most variance and the last component the least.
