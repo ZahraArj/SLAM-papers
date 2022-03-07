@@ -68,10 +68,10 @@ For a large corpus of text, this increases the time spent translating the text.
 * maps a sequence of past observations as input to an output observation.
 * sequence of observations must be transformed into multiple examples from which the LSTM can learn
 * split_sequence()
-* X,				y
-  10, 20, 30		40
-  20, 30, 40		50
-  30, 40, 50		60
+* X,				y  
+  10, 20, 30		40  
+  20, 30, 40		50   
+  30, 40, 50		60  
 
 
 
