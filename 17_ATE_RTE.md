@@ -7,7 +7,7 @@ Link: [A Benchmark for the Evaluation of RGB-D SLAM Systems](https://ieeexplore.
 The relative pose error measures the local accuracy of the trajectory over a fixed time interval ∆. 
 Therefore, the relative pose error corresponds to the drift of the trajectory.
 
-poses from the estimated trajectory P1, . . . , Pn ∈ SE(3)
+poses from the estimated trajectory P1, . . . , Pn ∈ SE(3)  
 and from the ground truth trajectory Q1, . . . , Qn ∈ SE(3)
 
 ![a](https://user-images.githubusercontent.com/46463022/167691155-17122ce1-5ea1-4866-8808-f949885e6673.PNG)  
