@@ -56,6 +56,7 @@ parameterized by θ: x~p(x|θ)
 
 
 ### Lie algebras
+A tutorial: (https://ingmec.ual.es/~jlblanco/papers/jlblanco2010geometry3D_techrep.pdf)
    - Each Lie group has a corresponding Lie Algebra
    - Lie Algebra is a local property of Lie Group
 ![Screenshot from 2021-09-25 17-45-11](https://user-images.githubusercontent.com/46463022/134786719-235762d9-34ef-42b2-8efa-738e2eb77503.png)  
