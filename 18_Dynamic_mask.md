@@ -1,0 +1,1 @@
+##[Rigid-aware self-supervised GAN for camera ego-motion estimation](https://reader.elsevier.com/reader/sd/pii/S1051200422000884?token=15216BF2CB2E58BAB322EAE5D8A325141DE1F115DCA1D8A5B74CBBA16868D52CA44A2EB5E75128EDA4D18134228B39F8&originRegion=us-east-1&originCreation=20220530153331)
