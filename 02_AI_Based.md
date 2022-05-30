@@ -95,7 +95,7 @@ Zahra
 <br/>
 <br/>
       
-### Visual Localization UoT, Prof. Jonathan Kelly, [STARS Lab](https://starslab.ca/)
+## Visual Localization UoT, Prof. Jonathan Kelly, [STARS Lab](https://starslab.ca/)
 
 - [2020: Self-Supervised Deep Pose Corrections for Robust Visual Odometry](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9197562)
 - [2018: VDPC-Net: Deep Pose Correction for Visual Localization](https://arxiv.org/pdf/1709.03128.pdf) 
@@ -129,7 +129,7 @@ To **parameterize this correction**:
 
 
 
-### [Stereo Visual Odometry Pose Correction through Unsupervised Deep Learning] ([https://starslab.ca/](https://mdpi-res.com/d_attachment/sensors/sensors-21-04735/article_deploy/sensors-21-04735-v2.pdf?version=1626077771))
+## [Stereo Visual Odometry Pose Correction through Unsupervised Deep Learning] ([https://starslab.ca/](https://mdpi-res.com/d_attachment/sensors/sensors-21-04735/article_deploy/sensors-21-04735-v2.pdf?version=1626077771))
 ![image](https://user-images.githubusercontent.com/46463022/171022897-0c95896c-e6b9-47ac-b4a7-a5162df3dd94.png)
 
 
