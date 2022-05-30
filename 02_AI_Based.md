@@ -129,6 +129,8 @@ To **parameterize this correction**:
 
 
 
+### [Stereo Visual Odometry Pose Correction through Unsupervised Deep Learning] ([https://starslab.ca/](https://mdpi-res.com/d_attachment/sensors/sensors-21-04735/article_deploy/sensors-21-04735-v2.pdf?version=1626077771))
+![image](https://user-images.githubusercontent.com/46463022/171022897-0c95896c-e6b9-47ac-b4a7-a5162df3dd94.png)
 
 
 <br/>
