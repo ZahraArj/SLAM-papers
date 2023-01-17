@@ -24,8 +24,8 @@ Comparing the absolute distances between the estimated and the ground truth traj
 
 
 # KITTI
-(KITTI paper)[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6248074  ]
-(On measuring the accuracy of SLAM algorithms)[https://link.springer.com/content/pdf/10.1007/s10514-009-9155-6.pdf?pdf=button]
+[KITTI paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6248074)  
+[On measuring the accuracy of SLAM algorithms](https://link.springer.com/content/pdf/10.1007/s10514-009-9155-6.pdf?pdf=button)
 
 
 ![Screenshot from 2023-01-17 12-08-41](https://user-images.githubusercontent.com/46463022/212965458-6ab64df8-738f-440f-91cd-624928161366.png)  
