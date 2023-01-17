@@ -26,5 +26,6 @@ Comparing the absolute distances between the estimated and the ground truth traj
 # KITTI
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6248074
 
-![Screenshot from 2023-01-17 12-08-41](https://user-images.githubusercontent.com/46463022/212965458-6ab64df8-738f-440f-91cd-624928161366.png)
+![Screenshot from 2023-01-17 12-08-41](https://user-images.githubusercontent.com/46463022/212965458-6ab64df8-738f-440f-91cd-624928161366.png)  
+
 where F is a set of frames (i, j), ˆp ∈ SE(3) and p ∈ SE(3) are estimated and true camera poses respectively, ⊖ denotes the inverse compositional operator [28] and ∠[·] is the rotation angle.
