@@ -1,4 +1,4 @@
-
+https://neptune.ai/blog/keras-loss-functions
 Keras loss functions 101
 In Keras, loss functions are passed during the compile stage, as shown below. 
 
